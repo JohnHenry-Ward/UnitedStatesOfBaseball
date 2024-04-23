@@ -1,0 +1,39 @@
+.test{
+  color: pink;
+  background-color: blue;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+}
+
+#container {
+  box-shadow: 2px 2px 20px;
+  width: 1200px;
+  padding: 20px 20px 20px 20px;
+  margin: 50px 0px 50px 0px;
+  align-self: center;
+  background-color: white;
+}
+
+#title {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#description {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 20px 0 0 0;
+}
+
+#source {
+  text-align: right;
+}
+
+
+
