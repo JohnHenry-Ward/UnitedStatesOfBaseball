@@ -11,6 +11,23 @@ import json
 import os
 import math
 
+class County:
+    def __init__(self, name, fips_id, mlb, aaa, aa, h_a, a, order):
+        self.name = name
+        self.fips_id = fips_id
+        self.mlb = mlb
+        self.aaa = aaa
+        self.aa = aa
+        self.h_a = h_a
+        self.a = a
+        self.order = order
+
+    def toJSON(self):
+        return json.dumps(
+            self,
+            default=lambda o: o.__dict__, 
+            sort_keys=True,
+            indent=4)
 
 class Point:
     def __init__(self, lat: float, lon: float) -> None:
@@ -25,18 +42,14 @@ class TeamDistance:
 class ClosestTeams:
     def __init__(self, fips_id) -> None:
         self.fips_id = fips_id
-        self.mlb = TeamDistance('x', 0)
-        self.aaa = TeamDistance('x', 0)
-        self.aa = TeamDistance('x', 0)
-        self.ha = TeamDistance('x', 0)
-        self.a = TeamDistance('x', 0)
+        self.mlb = TeamDistance('x', float('inf'))
+        self.aaa = TeamDistance('x', float('inf'))
+        self.aa = TeamDistance('x', float('inf'))
+        self.h_a = TeamDistance('x', float('inf'))
+        self.a = TeamDistance('x', float('inf'))
 
     def __str__(self) -> str:
-        pprint.pprint(self.mlb,
-              self.aaa,
-              self.aa,
-              self.ha,
-              self.a)
+        return f"{self.fips_id}\n{self.mlb.team_id, self.mlb.distance}\n{self.aaa.team_id, self.aaa.distance}\n"
 
     def getDistanceByLevel(self, level: str):
         if level == 'MLB':
@@ -46,7 +59,7 @@ class ClosestTeams:
         elif level == 'AA':
             return self.aa
         elif level == 'A+':
-            return self.ha
+            return self.h_a
         elif level == 'A':
             return self.a
         else:
@@ -88,6 +101,12 @@ def distance_between_two_points(point_a: Point, point_b: Point):
     return distance
 
 
+# finds the order of teams for a county based on the distance
+def find_order(teams: ClosestTeams):
+    order = []
+
+    return order
+
 def main():
 
     states_path = os.path.join(os.path.dirname(__file__), "states")
@@ -96,10 +115,13 @@ def main():
     states_dir = os.listdir(states_path)
     levels_dir = os.listdir(levels_path)
 
+    output_path = os.path.dirname(__file__)
+
     for state in states_dir:
         print(f'------{state}------')
         state_file = open(f"{states_path}/{state}")
         counties = json.load(state_file)
+        state_counties = []
 
         for county in counties:
             print(f'------{county}------')
@@ -119,7 +141,7 @@ def main():
                     team_point = Point(team['latitude'], team['longitude'])
                     distance = distance_between_two_points(county_point, team_point)
 
-                    if distance > closest_teams.getDistanceByLevel(level_title).distance:
+                    if distance < closest_teams.getDistanceByLevel(level_title).distance:
                         closest_teams.setDistanceByLevel(level_title, distance, team['team_id'])
 
                 level_file.close()
@@ -127,7 +149,13 @@ def main():
             # TODO
             # all closest teams have been calculated for a county
             # now we want to sort those 5 teams
-            print(closest_teams)
+            order = find_order(closest_teams)
+            county_data = County(county['county'], county['fips_id'], closest_teams.mlb.team_id, closest_teams.aaa.team_id, closest_teams.aa.team_id, closest_teams.h_a.team_id, closest_teams.a.team_id, order)
+            state_counties.append(county_data.toJSON())
+            
+        with open(f'{output_path}/output/{state}', "w") as output_file:
+            for line in state_counties:
+                output_file.write(line)
 
         state_file.close()
 
