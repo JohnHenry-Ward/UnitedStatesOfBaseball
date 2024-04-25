@@ -1,11 +1,14 @@
 const fs = require("fs");
 
-let files = fs.readdirSync("app/api/counties/states");
+input_file_path = "public/js/distanceCalculations/states"
+output_file_path = "app/api/counties/data.json"
+
+let files = fs.readdirSync(input_file_path);
  
 let combinedData = []; 
  
 files.forEach((fileName) => {
-    const fileContent = JSON.parse(fs.readFileSync(`app/api/counties/states/${fileName}`, 'utf-8'));
+    const fileContent = JSON.parse(fs.readFileSync(`${input_file_path}/${fileName}`, 'utf-8'));
     combinedData = combinedData.concat(fileContent);
 }); 
  
@@ -13,6 +16,6 @@ files.forEach((fileName) => {
 const combinedJson = JSON.stringify(combinedData, null, 2); 
  
 // Write the combined JSON to a new file (optional) 
-fs.writeFileSync('app/api/counties/data.json', combinedJson, 'utf-8'); 
+fs.writeFileSync(output_file_path, combinedJson, 'utf-8'); 
  
 console.log('JSON files combined successfully.'); 
