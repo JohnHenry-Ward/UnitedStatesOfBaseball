@@ -22,12 +22,12 @@ class County:
         self.a = a
         self.order = order
 
-    def toJSON(self):
-        return json.dumps(
-            self,
-            default=lambda o: o.__dict__, 
-            sort_keys=True,
-            indent=4)
+    # def toJSON(self):
+    #     return json.dumps(
+    #         self,
+    #         default=lambda o: o.__dict__, 
+    #         sort_keys=True,
+    #         indent=4)
 
 class Point:
     def __init__(self, lat: float, lon: float) -> None:
@@ -146,17 +146,17 @@ def main():
 
                 level_file.close()
 
-            # TODO
-            # all closest teams have been calculated for a county
-            # now we want to sort those 5 teams
             order = find_order(closest_teams)
             county_data = County(county['county'], county['fips_id'], closest_teams.mlb.team_id, closest_teams.aaa.team_id, closest_teams.aa.team_id, closest_teams.h_a.team_id, closest_teams.a.team_id, order)
-            state_counties.append(county_data.toJSON())
+            state_counties.append(county_data)
             
         with open(f'{output_path}/output/{state}', "w") as output_file:
-            for line in state_counties:
-                output_file.write(line)
-
+            output_file.write(json.dumps([County.__dict__ for County in state_counties], indent=2))
+            # for x in state_counties:
+            #     output_file.write(json.dumps(x.__dict__, separators=(', ',':')))
+            #     output_file.write('\n')
+            output_file.close()
+                
         state_file.close()
 
 
