@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Adams County",
+    "fips_id": 8001,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Alamosa County",
+    "fips_id": 8003,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Arapahoe County",
+    "fips_id": 8005,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Archuleta County",
+    "fips_id": 8007,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baca County",
+    "fips_id": 8009,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bent County",
+    "fips_id": 8011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Boulder County",
+    "fips_id": 8013,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Broomfield County",
+    "fips_id": 8014,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chaffee County",
+    "fips_id": 8015,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cheyenne County",
+    "fips_id": 8017,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clear Creek County",
+    "fips_id": 8019,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Conejos County",
+    "fips_id": 8021,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Costilla County",
+    "fips_id": 8023,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crowley County",
+    "fips_id": 8025,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Custer County",
+    "fips_id": 8027,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Delta County",
+    "fips_id": 8029,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Denver County",
+    "fips_id": 8031,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dolores County",
+    "fips_id": 8033,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Douglas County",
+    "fips_id": 8035,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Eagle County",
+    "fips_id": 8037,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elbert County",
+    "fips_id": 8039,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "El Paso County",
+    "fips_id": 8041,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fremont County",
+    "fips_id": 8043,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Garfield County",
+    "fips_id": 8045,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gilpin County",
+    "fips_id": 8047,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grand County",
+    "fips_id": 8049,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gunnison County",
+    "fips_id": 8051,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hinsdale County",
+    "fips_id": 8053,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Huerfano County",
+    "fips_id": 8055,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson County",
+    "fips_id": 8057,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 8059,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kiowa County",
+    "fips_id": 8061,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kit Carson County",
+    "fips_id": 8063,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lake County",
+    "fips_id": 8065,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "La Plata County",
+    "fips_id": 8067,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Larimer County",
+    "fips_id": 8069,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Las Animas County",
+    "fips_id": 8071,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 8073,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Logan County",
+    "fips_id": 8075,
+    "mlb": "mlb_9",
+    "aaa": "aaa_18",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mesa County",
+    "fips_id": 8077,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mineral County",
+    "fips_id": 8079,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Moffat County",
+    "fips_id": 8081,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montezuma County",
+    "fips_id": 8083,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montrose County",
+    "fips_id": 8085,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morgan County",
+    "fips_id": 8087,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Otero County",
+    "fips_id": 8089,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ouray County",
+    "fips_id": 8091,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Park County",
+    "fips_id": 8093,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Phillips County",
+    "fips_id": 8095,
+    "mlb": "mlb_9",
+    "aaa": "aaa_18",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pitkin County",
+    "fips_id": 8097,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Prowers County",
+    "fips_id": 8099,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pueblo County",
+    "fips_id": 8101,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rio Blanco County",
+    "fips_id": 8103,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rio Grande County",
+    "fips_id": 8105,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Routt County",
+    "fips_id": 8107,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Saguache County",
+    "fips_id": 8109,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Juan County",
+    "fips_id": 8111,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Miguel County",
+    "fips_id": 8113,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sedgwick County",
+    "fips_id": 8115,
+    "mlb": "mlb_9",
+    "aaa": "aaa_18",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Summit County",
+    "fips_id": 8117,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Teller County",
+    "fips_id": 8119,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 8121,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Weld County",
+    "fips_id": 8123,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yuma County",
+    "fips_id": 8125,
+    "mlb": "mlb_9",
+    "aaa": "aaa_18",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

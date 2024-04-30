@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Arkansas County",
+    "fips_id": 5001,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ashley County",
+    "fips_id": 5003,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baxter County",
+    "fips_id": 5005,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_27",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Benton County",
+    "fips_id": 5007,
+    "mlb": "mlb_12",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Boone County",
+    "fips_id": 5009,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bradley County",
+    "fips_id": 5011,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calhoun County",
+    "fips_id": 5013,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carroll County",
+    "fips_id": 5015,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chicot County",
+    "fips_id": 5017,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clark County",
+    "fips_id": 5019,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clay County",
+    "fips_id": 5021,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cleburne County",
+    "fips_id": 5023,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cleveland County",
+    "fips_id": 5025,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Columbia County",
+    "fips_id": 5027,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Conway County",
+    "fips_id": 5029,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Craighead County",
+    "fips_id": 5031,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crawford County",
+    "fips_id": 5033,
+    "mlb": "mlb_12",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crittenden County",
+    "fips_id": 5035,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cross County",
+    "fips_id": 5037,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dallas County",
+    "fips_id": 5039,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Desha County",
+    "fips_id": 5041,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Drew County",
+    "fips_id": 5043,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Faulkner County",
+    "fips_id": 5045,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 5047,
+    "mlb": "mlb_12",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fulton County",
+    "fips_id": 5049,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_27",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Garland County",
+    "fips_id": 5051,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grant County",
+    "fips_id": 5053,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greene County",
+    "fips_id": 5055,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hempstead County",
+    "fips_id": 5057,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hot Spring County",
+    "fips_id": 5059,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Howard County",
+    "fips_id": 5061,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Independence County",
+    "fips_id": 5063,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Izard County",
+    "fips_id": 5065,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson County",
+    "fips_id": 5067,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 5069,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Johnson County",
+    "fips_id": 5071,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lafayette County",
+    "fips_id": 5073,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lawrence County",
+    "fips_id": 5075,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lee County",
+    "fips_id": 5077,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 5079,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Little River County",
+    "fips_id": 5081,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Logan County",
+    "fips_id": 5083,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lonoke County",
+    "fips_id": 5085,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 5087,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marion County",
+    "fips_id": 5089,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_27",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Miller County",
+    "fips_id": 5091,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mississippi County",
+    "fips_id": 5093,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe County",
+    "fips_id": 5095,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery County",
+    "fips_id": 5097,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nevada County",
+    "fips_id": 5099,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Newton County",
+    "fips_id": 5101,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ouachita County",
+    "fips_id": 5103,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Perry County",
+    "fips_id": 5105,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Phillips County",
+    "fips_id": 5107,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pike County",
+    "fips_id": 5109,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Poinsett County",
+    "fips_id": 5111,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Polk County",
+    "fips_id": 5113,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pope County",
+    "fips_id": 5115,
+    "mlb": "mlb_12",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Prairie County",
+    "fips_id": 5117,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pulaski County",
+    "fips_id": 5119,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Randolph County",
+    "fips_id": 5121,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Francis County",
+    "fips_id": 5123,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Saline County",
+    "fips_id": 5125,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Scott County",
+    "fips_id": 5127,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Searcy County",
+    "fips_id": 5129,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sebastian County",
+    "fips_id": 5131,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sevier County",
+    "fips_id": 5133,
+    "mlb": "mlb_28",
+    "aaa": "aaa_17",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sharp County",
+    "fips_id": 5135,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stone County",
+    "fips_id": 5137,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 5139,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Van Buren County",
+    "fips_id": 5141,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 5143,
+    "mlb": "mlb_12",
+    "aaa": "aaa_17",
+    "aa": "aa_19",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "White County",
+    "fips_id": 5145,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Woodruff County",
+    "fips_id": 5147,
+    "mlb": "mlb_26",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yell County",
+    "fips_id": 5149,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

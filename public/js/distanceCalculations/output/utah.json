@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Beaver",
+    "fips_id": 49001,
+    "mlb": "mlb_1",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Box Elder",
+    "fips_id": 49003,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cache",
+    "fips_id": 49005,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carbon",
+    "fips_id": 49007,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Daggett",
+    "fips_id": 49009,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Davis",
+    "fips_id": 49011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Duchesne",
+    "fips_id": 49013,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Emery",
+    "fips_id": 49015,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Garfield",
+    "fips_id": 49017,
+    "mlb": "mlb_1",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grand",
+    "fips_id": 49019,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Iron",
+    "fips_id": 49021,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Juab",
+    "fips_id": 49023,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kane",
+    "fips_id": 49025,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Millard",
+    "fips_id": 49027,
+    "mlb": "mlb_1",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morgan",
+    "fips_id": 49029,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Piute",
+    "fips_id": 49031,
+    "mlb": "mlb_1",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rich",
+    "fips_id": 49033,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Salt Lake",
+    "fips_id": 49035,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Juan",
+    "fips_id": 49037,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sanpete",
+    "fips_id": 49039,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sevier",
+    "fips_id": 49041,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Summit",
+    "fips_id": 49043,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tooele",
+    "fips_id": 49045,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Uintah",
+    "fips_id": 49047,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Utah",
+    "fips_id": 49049,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wasatch",
+    "fips_id": 49051,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington",
+    "fips_id": 49053,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wayne",
+    "fips_id": 49055,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Weber",
+    "fips_id": 49057,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

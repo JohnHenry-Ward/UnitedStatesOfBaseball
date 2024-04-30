@@ -22,13 +22,6 @@ class County:
         self.a = a
         self.order = order
 
-    # def toJSON(self):
-    #     return json.dumps(
-    #         self,
-    #         default=lambda o: o.__dict__, 
-    #         sort_keys=True,
-    #         indent=4)
-
 class Point:
     def __init__(self, lat: float, lon: float) -> None:
         self.lat = lat
@@ -118,26 +111,23 @@ def main():
     output_path = os.path.dirname(__file__)
 
     for state in states_dir:
-        print(f'------{state}------')
         state_file = open(f"{states_path}/{state}")
         counties = json.load(state_file)
         state_counties = []
 
         for county in counties:
-            print(f'------{county}------')
             county_point = Point(county['latitude'], county['longitude'])
             closest_teams = ClosestTeams(fips_id=county['fips_id'])
 
             for level in levels_dir:
-                if level not in ['MLB.json', 'AAA.json']:
-                    continue
-                print(f'------{level}------')
                 level_title = level.strip('.json')
+                if level_title not in ['MLB', 'AAA', 'AA']:
+                    continue
                 level_file = open(f"{levels_path}/{level}")
                 teams = json.load(level_file)
 
                 for team in teams:
-                    # calculate distance between team and county
+                    # calculate distance between team and county, track the closest
                     team_point = Point(team['latitude'], team['longitude'])
                     distance = distance_between_two_points(county_point, team_point)
 
@@ -147,14 +137,11 @@ def main():
                 level_file.close()
 
             order = find_order(closest_teams)
-            county_data = County(county['county'], county['fips_id'], closest_teams.mlb.team_id, closest_teams.aaa.team_id, closest_teams.aa.team_id, closest_teams.h_a.team_id, closest_teams.a.team_id, order)
+            county_data = County(county['county'], int(county['fips_id']), closest_teams.mlb.team_id, closest_teams.aaa.team_id, closest_teams.aa.team_id, closest_teams.h_a.team_id, closest_teams.a.team_id, order)
             state_counties.append(county_data)
             
         with open(f'{output_path}/output/{state}', "w") as output_file:
             output_file.write(json.dumps([County.__dict__ for County in state_counties], indent=2))
-            # for x in state_counties:
-            #     output_file.write(json.dumps(x.__dict__, separators=(', ',':')))
-            #     output_file.write('\n')
             output_file.close()
                 
         state_file.close()
@@ -162,13 +149,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-whatcom = {
-    'mlb': ['']
-}

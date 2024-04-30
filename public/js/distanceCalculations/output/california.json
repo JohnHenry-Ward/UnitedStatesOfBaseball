@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Alameda County",
+    "fips_id": 6001,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Alpine County",
+    "fips_id": 6003,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Amador County",
+    "fips_id": 6005,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Butte County",
+    "fips_id": 6007,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calaveras County",
+    "fips_id": 6009,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Colusa County",
+    "fips_id": 6011,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Contra Costa County",
+    "fips_id": 6013,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Del Norte County",
+    "fips_id": 6015,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "El Dorado County",
+    "fips_id": 6017,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fresno County",
+    "fips_id": 6019,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Glenn County",
+    "fips_id": 6021,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Humboldt County",
+    "fips_id": 6023,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Imperial County",
+    "fips_id": 6025,
+    "mlb": "mlb_23",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Inyo County",
+    "fips_id": 6027,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kern County",
+    "fips_id": 6029,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kings County",
+    "fips_id": 6031,
+    "mlb": "mlb_14",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lake County",
+    "fips_id": 6033,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lassen County",
+    "fips_id": 6035,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Los Angeles County",
+    "fips_id": 6037,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madera County",
+    "fips_id": 6039,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marin County",
+    "fips_id": 6041,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mariposa County",
+    "fips_id": 6043,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mendocino County",
+    "fips_id": 6045,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Merced County",
+    "fips_id": 6047,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Modoc County",
+    "fips_id": 6049,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mono County",
+    "fips_id": 6051,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monterey County",
+    "fips_id": 6053,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Napa County",
+    "fips_id": 6055,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nevada County",
+    "fips_id": 6057,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orange County",
+    "fips_id": 6059,
+    "mlb": "mlb_13",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Placer County",
+    "fips_id": 6061,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Plumas County",
+    "fips_id": 6063,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Riverside County",
+    "fips_id": 6065,
+    "mlb": "mlb_23",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sacramento County",
+    "fips_id": 6067,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Benito County",
+    "fips_id": 6069,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Bernardino County",
+    "fips_id": 6071,
+    "mlb": "mlb_13",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Diego County",
+    "fips_id": 6073,
+    "mlb": "mlb_23",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Francisco County",
+    "fips_id": 6075,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Joaquin County",
+    "fips_id": 6077,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Luis Obispo County",
+    "fips_id": 6079,
+    "mlb": "mlb_14",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Mateo County",
+    "fips_id": 6081,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Barbara County",
+    "fips_id": 6083,
+    "mlb": "mlb_14",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Clara County",
+    "fips_id": 6085,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Cruz County",
+    "fips_id": 6087,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Shasta County",
+    "fips_id": 6089,
+    "mlb": "mlb_24",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sierra County",
+    "fips_id": 6091,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Siskiyou County",
+    "fips_id": 6093,
+    "mlb": "mlb_24",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Solano County",
+    "fips_id": 6095,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sonoma County",
+    "fips_id": 6097,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stanislaus County",
+    "fips_id": 6099,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sutter County",
+    "fips_id": 6101,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tehama County",
+    "fips_id": 6103,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Trinity County",
+    "fips_id": 6105,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tulare County",
+    "fips_id": 6107,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tuolumne County",
+    "fips_id": 6109,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ventura County",
+    "fips_id": 6111,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yolo County",
+    "fips_id": 6113,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yuba County",
+    "fips_id": 6115,
+    "mlb": "mlb_20",
+    "aaa": "aaa_22",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

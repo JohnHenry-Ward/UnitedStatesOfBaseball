@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Bernalillo County",
+    "fips_id": 35001,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Catron County",
+    "fips_id": 35003,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chaves County",
+    "fips_id": 35005,
+    "mlb": "mlb_28",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cibola County",
+    "fips_id": 35006,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Colfax County",
+    "fips_id": 35007,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Curry County",
+    "fips_id": 35009,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "De Baca County",
+    "fips_id": 35011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dona Ana County",
+    "fips_id": 35013,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Eddy County",
+    "fips_id": 35015,
+    "mlb": "mlb_28",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grant County",
+    "fips_id": 35017,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Guadalupe County",
+    "fips_id": 35019,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Harding County",
+    "fips_id": 35021,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hidalgo County",
+    "fips_id": 35023,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lea County",
+    "fips_id": 35025,
+    "mlb": "mlb_28",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 35027,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Los Alamos County",
+    "fips_id": 35028,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Luna County",
+    "fips_id": 35029,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McKinley County",
+    "fips_id": 35031,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mora County",
+    "fips_id": 35033,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Otero County",
+    "fips_id": 35035,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Quay County",
+    "fips_id": 35037,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rio Arriba County",
+    "fips_id": 35039,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Roosevelt County",
+    "fips_id": 35041,
+    "mlb": "mlb_28",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sandoval County",
+    "fips_id": 35043,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Juan County",
+    "fips_id": 35045,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "San Miguel County",
+    "fips_id": 35047,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Fe County",
+    "fips_id": 35049,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sierra County",
+    "fips_id": 35051,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Socorro County",
+    "fips_id": 35053,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Taos County",
+    "fips_id": 35055,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Torrance County",
+    "fips_id": 35057,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 35059,
+    "mlb": "mlb_9",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Valencia County",
+    "fips_id": 35061,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

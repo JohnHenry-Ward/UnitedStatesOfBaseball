@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Atlantic County",
+    "fips_id": 34001,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bergen County",
+    "fips_id": 34003,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Burlington County",
+    "fips_id": 34005,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Camden County",
+    "fips_id": 34007,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cape May County",
+    "fips_id": 34009,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cumberland County",
+    "fips_id": 34011,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Essex County",
+    "fips_id": 34013,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gloucester County",
+    "fips_id": 34015,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hudson County",
+    "fips_id": 34017,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hunterdon County",
+    "fips_id": 34019,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mercer County",
+    "fips_id": 34021,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Middlesex County",
+    "fips_id": 34023,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monmouth County",
+    "fips_id": 34025,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morris County",
+    "fips_id": 34027,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ocean County",
+    "fips_id": 34029,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Passaic County",
+    "fips_id": 34031,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Salem County",
+    "fips_id": 34033,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Somerset County",
+    "fips_id": 34035,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sussex County",
+    "fips_id": 34037,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 34039,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warren County",
+    "fips_id": 34041,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {"county": "Carson City", "fips_id": "32510", "latitude": 39.164, "longitude": -119.766},
+    {"county": "Churchill County", "fips_id": "32001", "latitude": 39.4597, "longitude": -118.348},
+    {"county": "Clark County", "fips_id": "32003", "latitude": 36.2149, "longitude": -115.013},
+    {"county": "Douglas County", "fips_id": "32005", "latitude": 38.9335, "longitude": -119.7911},
+    {"county": "Elko County", "fips_id": "32007", "latitude": 41.1425, "longitude": -115.3627},
+    {"county": "Esmeralda County", "fips_id": "32009", "latitude": 37.7773, "longitude": -117.6726},
+    {"county": "Eureka County", "fips_id": "32011", "latitude": 39.9143, "longitude": -116.4275},
+    {"county": "Humboldt County", "fips_id": "32013", "latitude": 41.4746, "longitude": -118.8277},
+    {"county": "Lander County", "fips_id": "32015", "latitude": 39.9797, "longitude": -117.2183},
+    {"county": "Lincoln County", "fips_id": "32017", "latitude": 37.5599, "longitude": -114.9883},
+    {"county": "Lyon County", "fips_id": "32019", "latitude": 39.0064, "longitude": -119.1878},
+    {"county": "Mineral County", "fips_id": "32021", "latitude": 38.5322, "longitude": -118.4566},
+    {"county": "Nye County", "fips_id": "32023", "latitude": 38.0272, "longitude": -116.6216},
+    {"county": "Pershing County", "fips_id": "32027", "latitude": 40.3988, "longitude": -118.0986},
+    {"county": "Storey County", "fips_id": "32029", "latitude": 39.4343, "longitude": -119.5343},
+    {"county": "Washoe County", "fips_id": "32031", "latitude": 40.6666, "longitude": -119.6035},
+    {"county": "White Pine County", "fips_id": "32033", "latitude": 39.5021, "longitude": -114.9013}
+]

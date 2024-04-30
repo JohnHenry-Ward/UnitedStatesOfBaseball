@@ -1,0 +1,7 @@
+[
+    {"county":"Hawaii County","fips_id":"15001","latitude":19.5978,"longitude":-155.5028},
+    {"county":"Honolulu County","fips_id":"15003","latitude":21.4588,"longitude":-157.978},
+    {"county":"Kalawao County","fips_id":"15005","latitude":21.1752,"longitude":-156.9675},
+    {"county":"Kauai County","fips_id":"15007","latitude":22.0964,"longitude":-159.5261},
+    {"county":"Maui County","fips_id":"15009","latitude":20.7961,"longitude":-156.3319}
+]

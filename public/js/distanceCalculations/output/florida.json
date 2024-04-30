@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Alachua County",
+    "fips_id": 12001,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baker County",
+    "fips_id": 12003,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bay County",
+    "fips_id": 12005,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bradford County",
+    "fips_id": 12007,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Brevard County",
+    "fips_id": 12009,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Broward County",
+    "fips_id": 12011,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calhoun County",
+    "fips_id": 12013,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Charlotte County",
+    "fips_id": 12015,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Citrus County",
+    "fips_id": 12017,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clay County",
+    "fips_id": 12019,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Collier County",
+    "fips_id": 12021,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Columbia County",
+    "fips_id": 12023,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "DeSoto County",
+    "fips_id": 12027,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dixie County",
+    "fips_id": 12029,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Duval County",
+    "fips_id": 12031,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Escambia County",
+    "fips_id": 12033,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Flagler County",
+    "fips_id": 12035,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 12037,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gadsden County",
+    "fips_id": 12039,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gilchrist County",
+    "fips_id": 12041,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Glades County",
+    "fips_id": 12043,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gulf County",
+    "fips_id": 12045,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hamilton County",
+    "fips_id": 12047,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hardee County",
+    "fips_id": 12049,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hendry County",
+    "fips_id": 12051,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hernando County",
+    "fips_id": 12053,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Highlands County",
+    "fips_id": 12055,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hillsborough County",
+    "fips_id": 12057,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Holmes County",
+    "fips_id": 12059,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Indian River County",
+    "fips_id": 12061,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson County",
+    "fips_id": 12063,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 12065,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lafayette County",
+    "fips_id": 12067,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lake County",
+    "fips_id": 12069,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lee County",
+    "fips_id": 12071,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Leon County",
+    "fips_id": 12073,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Levy County",
+    "fips_id": 12075,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Liberty County",
+    "fips_id": 12077,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 12079,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Manatee County",
+    "fips_id": 12081,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marion County",
+    "fips_id": 12083,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Martin County",
+    "fips_id": 12085,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Miami-Dade County",
+    "fips_id": 12086,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe County",
+    "fips_id": 12087,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nassau County",
+    "fips_id": 12089,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Okaloosa County",
+    "fips_id": 12091,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Okeechobee County",
+    "fips_id": 12093,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orange County",
+    "fips_id": 12095,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Osceola County",
+    "fips_id": 12097,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Palm Beach County",
+    "fips_id": 12099,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pasco County",
+    "fips_id": 12101,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pinellas County",
+    "fips_id": 12103,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Polk County",
+    "fips_id": 12105,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Putnam County",
+    "fips_id": 12107,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Johns County",
+    "fips_id": 12109,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Lucie County",
+    "fips_id": 12111,
+    "mlb": "mlb_15",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Rosa County",
+    "fips_id": 12113,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sarasota County",
+    "fips_id": 12115,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Seminole County",
+    "fips_id": 12117,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sumter County",
+    "fips_id": 12119,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Suwannee County",
+    "fips_id": 12121,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Taylor County",
+    "fips_id": 12123,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 12125,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Volusia County",
+    "fips_id": 12127,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wakulla County",
+    "fips_id": 12129,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Walton County",
+    "fips_id": 12131,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 12133,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_20",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Hawaii County",
+    "fips_id": 15001,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Honolulu County",
+    "fips_id": 15003,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kalawao County",
+    "fips_id": 15005,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kauai County",
+    "fips_id": 15007,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Maui County",
+    "fips_id": 15009,
+    "mlb": "mlb_24",
+    "aaa": "aaa_22",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

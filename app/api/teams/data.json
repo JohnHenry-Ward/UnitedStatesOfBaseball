@@ -1,188 +1,724 @@
 [
+  {},
+  {},
   {
-    "team_name": "Tacoma Rainers",
+    "team_name": "Akron RubberDucks",
+    "team_id": "aa_1",
+    "color": "#EF3E42",
+    "latitude": 41.0738,
+    "longitude": -81.5246,
+    "logo": "Akron_RubberDucks.png"
+  },
+  {
+    "team_name": "Altoona Curve",
+    "team_id": "aa_2",
+    "color": "#FF6F61",
+    "latitude": 40.4861,
+    "longitude": -78.3973,
+    "logo": "Altoona_Curve.png"
+  },
+  {
+    "team_name": "Amarillo Sod Poodles",
+    "team_id": "aa_3",
+    "color": "#FF6F61",
+    "latitude": 35.1851,
+    "longitude": -101.708,
+    "logo": "Amarillo_Sod_Poodles.png"
+  },
+  {
+    "team_name": "Arkansas Travelers",
+    "team_id": "aa_4",
+    "color": "#FFD700",
+    "latitude": 34.7422,
+    "longitude": -92.2554,
+    "logo": "Arkansas_Travelers.png"
+  },
+  {
+    "team_name": "Biloxi Shuckers",
+    "team_id": "aa_5",
+    "color": "#002D72",
+    "latitude": 30.4044,
+    "longitude": -88.8907,
+    "logo": "Biloxi_Shuckers.png"
+  },
+  {
+    "team_name": "Birmingham Barons",
+    "team_id": "aa_6",
+    "color": "#000000",
+    "latitude": 33.5073,
+    "longitude": -86.8106,
+    "logo": "Birmingham_Barons.png"
+  },
+  {
+    "team_name": "Binghamton Rumble Ponies",
+    "team_id": "aa_7",
+    "color": "#FF6F61",
+    "latitude": 42.0981,
+    "longitude": -75.9175,
+    "logo": "Binghamton_Rumble_Ponies.png"
+  },
+  {
+    "team_name": "Bowie Baysox",
+    "team_id": "aa_8",
+    "color": "#000000",
+    "latitude": 39.0735,
+    "longitude": -76.6105,
+    "logo": "Bowie_Baysox.png"
+  },
+  {
+    "team_name": "Chattanooga Lookouts",
+    "team_id": "aa_9",
+    "color": "#002D72",
+    "latitude": 35.0504,
+    "longitude": -85.2664,
+    "logo": "Chattanooga_Lookouts.png"
+  },
+  {
+    "team_name": "Corpus Christi Hooks",
+    "team_id": "aa_10",
+    "color": "#FFD700",
+    "latitude": 27.7776,
+    "longitude": -97.4083,
+    "logo": "Corpus_Christi_Hooks.png"
+  },
+  {
+    "team_name": "Erie SeaWolves",
+    "team_id": "aa_11",
+    "color": "#FF6F61",
+    "latitude": 42.1092,
+    "longitude": -80.0983,
+    "logo": "Erie_SeaWolves.png"
+  },
+  {
+    "team_name": "Frisco RoughRiders",
+    "team_id": "aa_12",
+    "color": "#006BA6",
+    "latitude": 33.098,
+    "longitude": -96.8126,
+    "logo": "Frisco_RoughRiders.png"
+  },
+  {
+    "team_name": "Harrisburg Senators",
+    "team_id": "aa_13",
+    "color": "#FF6F61",
+    "latitude": 40.2656,
+    "longitude": -76.8854,
+    "logo": "Harrisburg_Senators.png"
+  },
+  {
+    "team_name": "Hartford Yard Goats",
+    "team_id": "aa_14",
+    "color": "#FF6F61",
+    "latitude": 41.7759,
+    "longitude": -72.1525,
+    "logo": "Hartford_Yard_Goats.png"
+  },
+  {
+    "team_name": "Midland RockHounds",
+    "team_id": "aa_15",
+    "color": "#000000",
+    "latitude": 31.9664,
+    "longitude": -102.082,
+    "logo": "Midland_RockHounds.png"
+  },
+  {
+    "team_name": "Mississippi Braves",
+    "team_id": "aa_16",
+    "color": "#002F6C",
+    "latitude": 32.2922,
+    "longitude": -90.1798,
+    "logo": "Mississippi_Braves.png"
+  },
+  {
+    "team_name": "Montgomery Biscuits",
+    "team_id": "aa_17",
+    "color": "#FFD700",
+    "latitude": 32.3613,
+    "longitude": -86.279,
+    "logo": "Montgomery_Biscuits.png"
+  },
+  {
+    "team_name": "New Hampshire Fisher Cats",
+    "team_id": "aa_18",
+    "color": "#1D2D5C",
+    "latitude": 43.5662,
+    "longitude": -71.4676,
+    "logo": "New_Hampshire_Fisher_Cats.png"
+  },
+  {
+    "team_name": "Northwest Arkansas Naturals",
+    "team_id": "aa_19",
+    "color": "#00635B",
+    "latitude": 36.3355,
+    "longitude": -94.1456,
+    "logo": "Northwest_Arkansas_Naturals.png"
+  },
+  {
+    "team_name": "Pensacola Blue Wahoos",
+    "team_id": "aa_20",
+    "color": "#002D72",
+    "latitude": 30.4176,
+    "longitude": -87.2084,
+    "logo": "Pensacola_Blue_Wahoos.png"
+  },
+  {
+    "team_name": "Portland Sea Dogs",
+    "team_id": "aa_21",
+    "color": "#0000FF",
+    "latitude": 43.6434,
+    "longitude": -70.275,
+    "logo": "Portland_Sea_Dogs.png"
+  },
+  {
+    "team_name": "Reading Fightin Phils",
+    "team_id": "aa_22",
+    "color": "#7E0021",
+    "latitude": 40.324,
+    "longitude": -75.9393,
+    "logo": "Reading_Fightin_Phils.png"
+  },
+  {
+    "team_name": "Richmond Flying Squirrels",
+    "team_id": "aa_23",
+    "color": "#000000",
+    "latitude": 37.5407,
+    "longitude": -77.436,
+    "logo": "Richmond_Flying_Squirrels.png"
+  },
+  {
+    "team_name": "Rocket City Trash Pandas",
+    "team_id": "aa_24",
+    "color": "#000000",
+    "latitude": 34.7384,
+    "longitude": -86.6739,
+    "logo": "Rocket_City_Trash_Pandas.png"
+  },
+  {
+    "team_name": "San Antonio Missions",
+    "team_id": "aa_25",
+    "color": "#000000",
+    "latitude": 29.4054,
+    "longitude": -98.4697,
+    "logo": "San_Antonio_Missions.png"
+  },
+  {
+    "team_name": "Somerset Patriots",
+    "team_id": "aa_26",
+    "color": "#FDB827",
+    "latitude": 40.5726,
+    "longitude": -74.6181,
+    "logo": "Somerset_Patriots.png"
+  },
+  {
+    "team_name": "Springfield Cardinals",
+    "team_id": "aa_27",
+    "color": "#FF6F61",
+    "latitude": 37.2095,
+    "longitude": -93.2922,
+    "logo": "Springfield_Cardinals.png"
+  },
+  {
+    "team_name": "Tennessee Smokies",
+    "team_id": "aa_28",
+    "color": "#000000",
+    "latitude": 35.9352,
+    "longitude": -83.925,
+    "logo": "Tennessee_Smokies.png"
+  },
+  {
+    "team_name": "Tulsa Drillers",
+    "team_id": "aa_29",
+    "color": "#000000",
+    "latitude": 36.1595,
+    "longitude": -95.9933,
+    "logo": "Tulsa_Drillers.png"
+  },
+  {
+    "team_name": "Wichita Wind Surge",
+    "team_id": "aa_30",
+    "color": "#FFD700",
+    "latitude": 37.6846,
+    "longitude": -97.3333,
+    "logo": "Wichita_Wind_Surge.png"
+  },
+  {
+    "team_name": "Albuquerque Isotopes",
+    "color": "#FFD100",
+    "team_id": "aaa_1",
+    "logo": "albuquerque_isotopes.png",
+    "latitude": 35.0684,
+    "longitude": -106.6075
+  },
+  {
+    "team_name": "Buffalo Bisons",
+    "color": "#00538C",
+    "team_id": "aaa_2",
+    "logo": "buffalo_bisons.png",
+    "latitude": 42.8806,
+    "longitude": -78.8781
+  },
+  {
+    "team_name": "Charlotte Knights",
+    "color": "#C6011F",
+    "team_id": "aaa_3",
+    "logo": "charlotte_knights.png",
+    "latitude": 35.2289,
+    "longitude": -80.8431
+  },
+  {
+    "team_name": "Columbus Clippers",
+    "color": "#002D72",
+    "team_id": "aaa_4",
+    "logo": "columbus_clippers.png",
+    "latitude": 40.027,
+    "longitude": -83.0197
+  },
+  {
+    "team_name": "Durham Bulls",
+    "color": "#072754",
+    "team_id": "aaa_5",
+    "logo": "durham_bulls.png",
+    "latitude": 35.9912,
+    "longitude": -78.9041
+  },
+  {
+    "team_name": "El Paso Chihuahuas",
+    "color": "#2A1A5E",
+    "team_id": "aaa_6",
+    "logo": "el_paso_chihuahuas.png",
+    "latitude": 31.7559,
+    "longitude": -106.4142
+  },
+  {
+    "team_name": "Gwinnett Stripers",
+    "color": "#00A0E0",
+    "team_id": "aaa_7",
+    "logo": "gwinnett_stripers.png",
+    "latitude": 33.9665,
+    "longitude": -84.0458
+  },
+  {
+    "team_name": "Iowa Cubs",
+    "color": "#0E3386",
+    "team_id": "aaa_8",
+    "logo": "iowa_cubs.png",
+    "latitude": 41.6338,
+    "longitude": -93.6419
+  },
+  {
+    "team_name": "Indianapolis Indians",
+    "color": "#002D72",
+    "team_id": "aaa_9",
+    "logo": "indianapolis_indians.png",
+    "latitude": 39.764,
+    "longitude": -86.1663
+  },
+  {
+    "team_name": "Jacksonville Jumbo Shrimp",
+    "color": "#00637C",
+    "team_id": "aaa_10",
+    "logo": "jacksonville_jumbo_shrimp.png",
+    "latitude": 30.3243,
+    "longitude": -81.6432
+  },
+  {
+    "team_name": "Las Vegas Aviators",
+    "color": "#241F20",
+    "team_id": "aaa_11",
+    "logo": "las_vegas_aviators.png",
+    "latitude": 36.1504,
+    "longitude": -115.1465
+  },
+  {
+    "team_name": "Lehigh Valley IronPigs",
     "color": "#A71930",
-    "id": "aaa_1",
-    "logo": "tacoma_rainers.png"
+    "team_id": "aaa_12",
+    "logo": "lehigh_valley_ironpigs.png",
+    "latitude": 40.6255,
+    "longitude": -75.4527
+  },
+  {
+    "team_name": "Louisville Bats",
+    "color": "#C6011F",
+    "team_id": "aaa_13",
+    "logo": "louisville_bats.png",
+    "latitude": 38.2561,
+    "longitude": -85.7538
+  },
+  {
+    "team_name": "Memphis Redbirds",
+    "color": "#C41E3A",
+    "team_id": "aaa_14",
+    "logo": "memphis_redbirds.png",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "team_name": "Nashville Sounds",
+    "color": "#002D72",
+    "team_id": "aaa_15",
+    "logo": "nashville_sounds.png",
+    "latitude": 36.1721,
+    "longitude": -86.7848
+  },
+  {
+    "team_name": "Norfolk Tides",
+    "color": "#ED174C",
+    "team_id": "aaa_16",
+    "logo": "norfolk_tides.png",
+    "latitude": 36.8529,
+    "longitude": -76.2859
+  },
+  {
+    "team_name": "Oklahoma City Baseball Club",
+    "color": "#005A9C",
+    "team_id": "aaa_17",
+    "logo": "oklahoma_city_baseball_club.png",
+    "latitude": 35.4676,
+    "longitude": -97.5357
+  },
+  {
+    "team_name": "Omaha Storm Chasers",
+    "color": "#004687",
+    "team_id": "aaa_18",
+    "logo": "omaha_storm_chasers.png",
+    "latitude": 41.1289,
+    "longitude": -95.9215
+  },
+  {
+    "team_name": "Reno Aces",
+    "color": "#241F20",
+    "team_id": "aaa_19",
+    "logo": "reno_aces.png",
+    "latitude": 39.5251,
+    "longitude": -119.7714
+  },
+  {
+    "team_name": "Rochester Red Wings",
+    "color": "#0A2C5C",
+    "team_id": "aaa_20",
+    "logo": "rochester_red_wings.png",
+    "latitude": 43.1399,
+    "longitude": -77.6426
+  },
+  {
+    "team_name": "Round Rock Express",
+    "color": "#003278",
+    "team_id": "aaa_21",
+    "logo": "round_rock_express.png",
+    "latitude": 30.5276,
+    "longitude": -97.6323
+  },
+  {
+    "team_name": "Sacramento River Cats",
+    "color": "#4A962A",
+    "team_id": "aaa_22",
+    "logo": "sacramento_river_cats.png",
+    "latitude": 38.5801,
+    "longitude": -121.491
+  },
+  {
+    "team_name": "Salt Lake Bees",
+    "color": "#FFC425",
+    "team_id": "aaa_23",
+    "logo": "salt_lake_bees.png",
+    "latitude": 40.7686,
+    "longitude": -111.906
+  },
+  {
+    "team_name": "Scranton/Wilkes-Barre RailRiders",
+    "color": "#003DA5",
+    "team_id": "aaa_24",
+    "logo": "scranton_wilkes_barre_railriders.png",
+    "latitude": 41.4139,
+    "longitude": -75.6624
+  },
+  {
+    "team_name": "St. Paul Saints",
+    "color": "#000000",
+    "team_id": "aaa_25",
+    "logo": "st_paul_saints.png",
+    "latitude": 44.9818,
+    "longitude": -93.2778
+  },
+  {
+    "team_name": "Sugar Land Space Cowboys",
+    "color": "#00ABE9",
+    "team_id": "aaa_26",
+    "logo": "sugar_land_space_cowboys.png",
+    "latitude": 29.6271,
+    "longitude": -95.6073
+  },
+  {
+    "team_name": "Syracuse Mets",
+    "color": "#FF4E37",
+    "team_id": "aaa_27",
+    "logo": "syracuse_mets.png",
+    "latitude": 43.6517,
+    "longitude": -70.2613
+  },
+  {
+    "team_name": "Tacoma Rainiers",
+    "color": "#0072CE",
+    "team_id": "aaa_28",
+    "logo": "tacoma_rainiers.png",
+    "latitude": 47.5899,
+    "longitude": -122.3016
+  },
+  {
+    "team_name": "Toledo Mud Hens",
+    "color": "#0067A0",
+    "team_id": "aaa_29",
+    "logo": "toledo_mud_hens.png",
+    "latitude": 41.6549,
+    "longitude": -83.5436
+  },
+  {
+    "team_name": "Worcester Red Sox",
+    "color": "#C8102E",
+    "team_id": "aaa_30",
+    "logo": "worcester_red_sox.png",
+    "latitude": 42.34,
+    "longitude": -71.0503
   },
   {
     "team_name": "Arizona Diamondbacks",
     "color": "#A71930",
-    "id": "mlb_1",
-    "logo": "arizona_diamondbacks.png"
+    "team_id": "mlb_1",
+    "logo": "arizona_diamondbacks.png",
+    "latitude": 33.4455,
+    "longitude": -112.0667
   },
   {
     "team_name": "Atlanta Braves",
     "color": "#13274F",
-    "id": "mlb_2",
-    "logo": "atlanta_braves.png"
+    "team_id": "mlb_2",
+    "logo": "atlanta_braves.png",
+    "latitude": 33.8907,
+    "longitude": -84.4678
   },
   {
     "team_name": "Baltimore Orioles",
     "color": "#DF4601",
-    "id": "mlb_3",
-    "logo": "baltimore_orioles.png"
+    "team_id": "mlb_3",
+    "logo": "baltimore_orioles.png",
+    "latitude": 39.2839,
+    "longitude": -76.6219
   },
   {
     "team_name": "Boston Red Sox",
     "color": "#BD3039",
-    "id": "mlb_4",
-    "logo": "boston_red_sox.png"
+    "team_id": "mlb_4",
+    "logo": "boston_red_sox.png",
+    "latitude": 42.3464,
+    "longitude": -71.0975
   },
   {
     "team_name": "Chicago Cubs",
     "color": "#0E3386",
-    "id": "mlb_5",
-    "logo": "chicago_cubs.png"
+    "team_id": "mlb_5",
+    "logo": "chicago_cubs.png",
+    "latitude": 41.8299,
+    "longitude": -87.6338
   },
   {
     "team_name": "Chicago White Sox",
     "color": "#27251F",
-    "id": "mlb_6",
-    "logo": "chicago_white_sox.png"
+    "team_id": "mlb_6",
+    "logo": "chicago_white_sox.png",
+    "latitude": 41.9484,
+    "longitude": -87.6553
   },
   {
     "team_name": "Cincinnati Reds",
     "color": "#C6011F",
-    "id": "mlb_7",
-    "logo": "cincinnati_reds.png"
+    "team_id": "mlb_7",
+    "logo": "cincinnati_reds.png",
+    "latitude": 39.0979,
+    "longitude": -84.5083
   },
   {
     "team_name": "Cleveland Guardians",
     "color": "#E31937",
-    "id": "mlb_8",
-    "logo": "cleveland_guardians.png"
+    "team_id": "mlb_8",
+    "logo": "cleveland_guardians.png",
+    "latitude": 41.4958,
+    "longitude": -81.6853
   },
   {
     "team_name": "Colorado Rockies",
     "color": "#33006F",
-    "id": "mlb_9",
-    "logo": "colorado_rockies.png"
+    "team_id": "mlb_9",
+    "logo": "colorado_rockies.png",
+    "latitude": 39.7559,
+    "longitude": -104.9942
   },
   {
     "team_name": "Detroit Tigers",
     "color": "#0C2C56",
-    "id": "mlb_10",
-    "logo": "detroit_tigers.png"
+    "team_id": "mlb_10",
+    "logo": "detroit_tigers.png",
+    "latitude": 42.3391,
+    "longitude": -83.0486
   },
   {
     "team_name": "Houston Astros",
     "color": "#002D62",
-    "id": "mlb_11",
-    "logo": "houston_astros.png"
+    "team_id": "mlb_11",
+    "logo": "houston_astros.png",
+    "latitude": 29.7569,
+    "longitude": -95.3554
   },
   {
     "team_name": "Kansas City Royals",
     "color": "#004687",
-    "id": "mlb_12",
-    "logo": "kansas_city_royals.png"
+    "team_id": "mlb_12",
+    "logo": "kansas_city_royals.png",
+    "latitude": 39.0518,
+    "longitude": -94.4806
   },
   {
     "team_name": "Los Angeles Angels",
     "color": "#BA0021",
-    "id": "mlb_13",
-    "logo": "los_angeles_angels.png"
+    "team_id": "mlb_13",
+    "logo": "los_angeles_angels.png",
+    "latitude": 33.8003,
+    "longitude": -117.8827
   },
   {
     "team_name": "Los Angeles Dodgers",
     "color": "#005A9C",
-    "id": "mlb_14",
-    "logo": "los_angeles_dodgers.png"
+    "team_id": "mlb_14",
+    "logo": "los_angeles_dodgers.png",
+    "latitude": 34.0736,
+    "longitude": -118.239
   },
   {
     "team_name": "Miami Marlins",
     "color": "#00A3E0",
-    "id": "mlb_15",
-    "logo": "miami_marlins.png"
+    "team_id": "mlb_15",
+    "logo": "miami_marlins.png",
+    "latitude": 25.7784,
+    "longitude": -80.2195
   },
   {
     "team_name": "Milwaukee Brewers",
     "color": "#0A2351",
-    "id": "mlb_16",
-    "logo": "milwaukee_brewers.png"
+    "team_id": "mlb_16",
+    "logo": "milwaukee_brewers.png",
+    "latitude": 43.0286,
+    "longitude": -87.9711
   },
   {
     "team_name": "Minnesota Twins",
     "color": "#002B5C",
-    "id": "mlb_17",
-    "logo": "minnesota_twins.png"
+    "team_id": "mlb_17",
+    "logo": "minnesota_twins.png",
+    "latitude": 44.9818,
+    "longitude": -93.2778
   },
   {
     "team_name": "New York Yankees",
     "color": "#003087",
-    "id": "mlb_18",
-    "logo": "new_york_yankees.png"
+    "team_id": "mlb_18",
+    "logo": "new_york_yankees.png",
+    "latitude": 40.8296,
+    "longitude": -73.9262
   },
   {
     "team_name": "New York Mets",
     "color": "#FF5910",
-    "id": "mlb_19",
-    "logo": "new_york_mets.png"
+    "team_id": "mlb_19",
+    "logo": "new_york_mets.png",
+    "latitude": 40.7571,
+    "longitude": -73.8458
   },
   {
     "team_name": "Oakland Athletics",
     "color": "#003831",
-    "id": "mlb_20",
-    "logo": "oakland_athletics.png"
+    "team_id": "mlb_20",
+    "logo": "oakland_athletics.png",
+    "latitude": 37.7516,
+    "longitude": -122.2005
   },
   {
     "team_name": "Philadelphia Phillies",
     "color": "#E81828",
-    "id": "mlb_21",
-    "logo": "philadelphia_phillies.png"
+    "team_id": "mlb_21",
+    "logo": "philadelphia_phillies.png",
+    "latitude": 39.9056,
+    "longitude": -75.1667
   },
   {
     "team_name": "Pittsburgh Pirates",
     "color": "#FFB81C",
-    "id": "mlb_22",
-    "logo": "pittsburgh_pirates.png"
+    "team_id": "mlb_22",
+    "logo": "pittsburgh_pirates.png",
+    "latitude": 40.4469,
+    "longitude": -80.0057
   },
   {
     "team_name": "San Diego Padres",
     "color": "#2F241D",
-    "id": "mlb_23",
-    "logo": "san_diego_padres.png"
+    "team_id": "mlb_23",
+    "logo": "san_diego_padres.png",
+    "latitude": 32.7076,
+    "longitude": -117.157
   },
   {
     "team_name": "San Francisco Giants",
     "color": "#FD5A1E",
-    "id": "mlb_24",
-    "logo": "san_francisco_giants.png"
+    "team_id": "mlb_24",
+    "logo": "san_francisco_giants.png",
+    "latitude": 37.7786,
+    "longitude": -122.3893
   },
   {
     "team_name": "Seattle Mariners",
     "color": "#0C2C56",
-    "id": "mlb_25",
-    "logo": "seattle_mariners.png"
+    "team_id": "mlb_25",
+    "logo": "seattle_mariners.png",
+    "latitude": 47.5914,
+    "longitude": -122.3326
   },
   {
     "team_name": "St. Louis Cardinals",
     "color": "#C41E3A",
-    "id": "mlb_26",
-    "logo": "st_louis_cardinals.png"
+    "team_id": "mlb_26",
+    "logo": "st_louis_cardinals.png",
+    "latitude": 38.6226,
+    "longitude": -90.1928
   },
   {
     "team_name": "Tampa Bay Rays",
     "color": "#092C5C",
-    "id": "mlb_27",
-    "logo": "tampa_bay_rays.png"
+    "team_id": "mlb_27",
+    "logo": "tampa_bay_rays.png",
+    "latitude": 27.7682,
+    "longitude": -82.6534
   },
   {
     "team_name": "Texas Rangers",
     "color": "#003278",
-    "id": "mlb_28",
-    "logo": "texas_rangers.png"
+    "team_id": "mlb_28",
+    "logo": "texas_rangers.png",
+    "latitude": 32.7473,
+    "longitude": -97.081
   },
   {
     "team_name": "Toronto Blue Jays",
     "color": "#134A8E",
-    "id": "mlb_29",
-    "logo": "toronto_blue_jays.png"
+    "team_id": "mlb_29",
+    "logo": "toronto_blue_jays.png",
+    "latitude": 43.6414,
+    "longitude": -79.3894
   },
   {
     "team_name": "Washington Nationals",
     "color": "#AB0003",
-    "id": "mlb_30",
-    "logo": "washington_nationals.png"
+    "team_id": "mlb_30",
+    "logo": "washington_nationals.png",
+    "latitude": 38.873,
+    "longitude": -77.0074
   }
 ]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Addison",
+    "fips_id": 50001,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bennington",
+    "fips_id": 50003,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Caledonia",
+    "fips_id": 50005,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chittenden",
+    "fips_id": 50007,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Essex",
+    "fips_id": 50009,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin",
+    "fips_id": 50011,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grand Isle",
+    "fips_id": 50013,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lamoille",
+    "fips_id": 50015,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orange",
+    "fips_id": 50017,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orleans",
+    "fips_id": 50019,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rutland",
+    "fips_id": 50021,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington",
+    "fips_id": 50023,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Windham",
+    "fips_id": 50025,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Windsor",
+    "fips_id": 50027,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

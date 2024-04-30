@@ -1,0 +1,12 @@
+[
+    {"county": "Belknap County", "fips_id": "33001", "latitude": 43.5278, "longitude": -71.4412},
+    {"county": "Carroll County", "fips_id": "33003", "latitude": 43.8789, "longitude": -71.4083},
+    {"county": "Cheshire County", "fips_id": "33005", "latitude": 42.9364, "longitude": -72.2795},
+    {"county": "Coos County", "fips_id": "33007", "latitude": 44.7237, "longitude": -71.307},
+    {"county": "Grafton County", "fips_id": "33009", "latitude": 43.8913, "longitude": -71.7856},
+    {"county": "Hillsborough County", "fips_id": "33011", "latitude": 42.8889, "longitude": -71.6554},
+    {"county": "Merrimack County", "fips_id": "33013", "latitude": 43.2872, "longitude": -71.7377},
+    {"county": "Rockingham County", "fips_id": "33015", "latitude": 42.9938, "longitude": -71.0551},
+    {"county": "Strafford County", "fips_id": "33017", "latitude": 43.2695, "longitude": -71.0442},
+    {"county": "Sullivan County", "fips_id": "33019", "latitude": 43.3654, "longitude": -72.2094}
+]

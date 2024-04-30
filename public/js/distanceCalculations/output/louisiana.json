@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Acadia",
+    "fips_id": 22001,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Allen",
+    "fips_id": 22003,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ascension",
+    "fips_id": 22005,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Assumption",
+    "fips_id": 22007,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Avoyelles",
+    "fips_id": 22009,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Beauregard",
+    "fips_id": 22011,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bienville",
+    "fips_id": 22013,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bossier",
+    "fips_id": 22015,
+    "mlb": "mlb_28",
+    "aaa": "aaa_26",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Caddo",
+    "fips_id": 22017,
+    "mlb": "mlb_28",
+    "aaa": "aaa_26",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calcasieu",
+    "fips_id": 22019,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Caldwell",
+    "fips_id": 22021,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cameron",
+    "fips_id": 22023,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Catahoula",
+    "fips_id": 22025,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Claiborne",
+    "fips_id": 22027,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Concordia",
+    "fips_id": 22029,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "De Soto",
+    "fips_id": 22031,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_12",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "East Baton Rouge",
+    "fips_id": 22033,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "East Carroll",
+    "fips_id": 22035,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "East Feliciana",
+    "fips_id": 22037,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Evangeline",
+    "fips_id": 22039,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin",
+    "fips_id": 22041,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grant",
+    "fips_id": 22043,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Iberia",
+    "fips_id": 22045,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Iberville",
+    "fips_id": 22047,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson",
+    "fips_id": 22049,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson",
+    "fips_id": 22051,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson Davis",
+    "fips_id": 22053,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lafayette",
+    "fips_id": 22055,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lafourche",
+    "fips_id": 22057,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "LaSalle",
+    "fips_id": 22059,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln",
+    "fips_id": 22061,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Livingston",
+    "fips_id": 22063,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison",
+    "fips_id": 22065,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morehouse",
+    "fips_id": 22067,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Natchitoches",
+    "fips_id": 22069,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orleans",
+    "fips_id": 22071,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ouachita",
+    "fips_id": 22073,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Plaquemines",
+    "fips_id": 22075,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pointe Coupee",
+    "fips_id": 22077,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rapides",
+    "fips_id": 22079,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Red River",
+    "fips_id": 22081,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Richland",
+    "fips_id": 22083,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sabine",
+    "fips_id": 22085,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Bernard",
+    "fips_id": 22087,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Charles",
+    "fips_id": 22089,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Helena",
+    "fips_id": 22091,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. James",
+    "fips_id": 22093,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. John the Baptist",
+    "fips_id": 22095,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Landry",
+    "fips_id": 22097,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Martin",
+    "fips_id": 22099,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Mary",
+    "fips_id": 22101,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Tammany",
+    "fips_id": 22103,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tangipahoa",
+    "fips_id": 22105,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tensas",
+    "fips_id": 22107,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Terrebonne",
+    "fips_id": 22109,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union",
+    "fips_id": 22111,
+    "mlb": "mlb_28",
+    "aaa": "aaa_14",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Vermilion",
+    "fips_id": 22113,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Vernon",
+    "fips_id": 22115,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington",
+    "fips_id": 22117,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_5",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Webster",
+    "fips_id": 22119,
+    "mlb": "mlb_28",
+    "aaa": "aaa_26",
+    "aa": "aa_4",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "West Baton Rouge",
+    "fips_id": 22121,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "West Carroll",
+    "fips_id": 22123,
+    "mlb": "mlb_11",
+    "aaa": "aaa_14",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "West Feliciana",
+    "fips_id": 22125,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Winn",
+    "fips_id": 22127,
+    "mlb": "mlb_11",
+    "aaa": "aaa_26",
+    "aa": "aa_16",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

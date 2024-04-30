@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Fairfield County",
+    "fips_id": 9001,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hartford County",
+    "fips_id": 9003,
+    "mlb": "mlb_18",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Litchfield County",
+    "fips_id": 9005,
+    "mlb": "mlb_18",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Middlesex County",
+    "fips_id": 9007,
+    "mlb": "mlb_19",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "New Haven County",
+    "fips_id": 9009,
+    "mlb": "mlb_19",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "New London County",
+    "fips_id": 9011,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tolland County",
+    "fips_id": 9013,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Windham County",
+    "fips_id": 9015,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

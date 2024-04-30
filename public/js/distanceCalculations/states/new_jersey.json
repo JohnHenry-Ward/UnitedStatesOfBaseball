@@ -1,0 +1,23 @@
+[
+    {"county": "Atlantic County", "fips_id": "34001", "latitude": 39.4836, "longitude": -74.6481},
+    {"county": "Bergen County", "fips_id": "34003", "latitude": 40.9601, "longitude": -74.0718},
+    {"county": "Burlington County", "fips_id": "34005", "latitude": 39.9042, "longitude": -74.891},
+    {"county": "Camden County", "fips_id": "34007", "latitude": 39.8028, "longitude": -74.9384},
+    {"county": "Cape May County", "fips_id": "34009", "latitude": 39.1096, "longitude": -74.8193},
+    {"county": "Cumberland County", "fips_id": "34011", "latitude": 39.319, "longitude": -75.1013},
+    {"county": "Essex County", "fips_id": "34013", "latitude": 40.7869, "longitude": -74.2466},
+    {"county": "Gloucester County", "fips_id": "34015", "latitude": 39.7199, "longitude": -75.1252},
+    {"county": "Hudson County", "fips_id": "34017", "latitude": 40.7316, "longitude": -74.0754},
+    {"county": "Hunterdon County", "fips_id": "34019", "latitude": 40.5639, "longitude": -74.9392},
+    {"county": "Mercer County", "fips_id": "34021", "latitude": 40.2652, "longitude": -74.6711},
+    {"county": "Middlesex County", "fips_id": "34023", "latitude": 40.4289, "longitude": -74.417},
+    {"county": "Monmouth County", "fips_id": "34025", "latitude": 40.287, "longitude": -74.1571},
+    {"county": "Morris County", "fips_id": "34027", "latitude": 40.8606, "longitude": -74.5463},
+    {"county": "Ocean County", "fips_id": "34029", "latitude": 39.9308, "longitude": -74.1617},
+    {"county": "Passaic County", "fips_id": "34031", "latitude": 41.0327, "longitude": -74.405},
+    {"county": "Salem County", "fips_id": "34033", "latitude": 39.6006, "longitude": -75.3519},
+    {"county": "Somerset County", "fips_id": "34035", "latitude": 40.5646, "longitude": -74.6165},
+    {"county": "Sussex County", "fips_id": "34037", "latitude": 41.1385, "longitude": -74.6917},
+    {"county": "Union County", "fips_id": "34039", "latitude": 40.6595, "longitude": -74.308},
+    {"county": "Warren County", "fips_id": "34041", "latitude": 40.8593, "longitude": -75.0037}
+]

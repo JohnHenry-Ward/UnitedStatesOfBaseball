@@ -1,0 +1,18 @@
+[
+    {"county": "Androscoggin County", "fips_id": "23001", "latitude": 44.1875, "longitude": -70.1861},
+    {"county": "Aroostook County", "fips_id": "23003", "latitude": 46.6805, "longitude": -68.3059},
+    {"county": "Cumberland County", "fips_id": "23005", "latitude": 43.8138, "longitude": -70.3877},
+    {"county": "Franklin County", "fips_id": "23007", "latitude": 44.9983, "longitude": -70.4364},
+    {"county": "Hancock County", "fips_id": "23009", "latitude": 44.5525, "longitude": -68.4182},
+    {"county": "Kennebec County", "fips_id": "23011", "latitude": 44.41, "longitude": -69.78},
+    {"county": "Knox County", "fips_id": "23013", "latitude": 44.0482, "longitude": -69.0973},
+    {"county": "Lincoln County", "fips_id": "23015", "latitude": 44.0839, "longitude": -69.5098},
+    {"county": "Oxford County", "fips_id": "23017", "latitude": 44.5469, "longitude": -70.75},
+    {"county": "Penobscot County", "fips_id": "23019", "latitude": 45.4001, "longitude": -68.6375},
+    {"county": "Piscataquis County", "fips_id": "23021", "latitude": 45.7951, "longitude": -69.181},
+    {"county": "Sagadahoc County", "fips_id": "23023", "latitude": 43.9181, "longitude": -69.8035},
+    {"county": "Somerset County", "fips_id": "23025", "latitude": 45.4288, "longitude": -69.7044},
+    {"county": "Waldo County", "fips_id": "23027", "latitude": 44.4741, "longitude": -69.0145},
+    {"county": "Washington County", "fips_id": "23029", "latitude": 44.9795, "longitude": -67.619},
+    {"county": "York County", "fips_id": "23031", "latitude": 43.4394, "longitude": -70.7089}
+]

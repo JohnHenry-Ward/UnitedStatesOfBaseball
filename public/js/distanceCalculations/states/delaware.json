@@ -1,0 +1,5 @@
+[
+    {"county": "Kent County", "fips_id": "10001", "latitude": 39.0989, "longitude": -75.4999},
+    {"county": "New Castle County", "fips_id": "10003", "latitude": 39.6633, "longitude": -75.5649},
+    {"county": "Sussex County", "fips_id": "10005", "latitude": 38.6777, "longitude": -75.4011}
+]

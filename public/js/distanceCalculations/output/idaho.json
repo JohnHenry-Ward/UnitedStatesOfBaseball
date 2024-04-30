@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Ada County",
+    "fips_id": 16001,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Adams County",
+    "fips_id": 16003,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bannock County",
+    "fips_id": 16005,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bear Lake County",
+    "fips_id": 16007,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Benewah County",
+    "fips_id": 16009,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bingham County",
+    "fips_id": 16011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Blaine County",
+    "fips_id": 16013,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Boise County",
+    "fips_id": 16015,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bonner County",
+    "fips_id": 16017,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bonneville County",
+    "fips_id": 16019,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Boundary County",
+    "fips_id": 16021,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Butte County",
+    "fips_id": 16023,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Camas County",
+    "fips_id": 16025,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Canyon County",
+    "fips_id": 16027,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Caribou County",
+    "fips_id": 16029,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cassia County",
+    "fips_id": 16031,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clark County",
+    "fips_id": 16033,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clearwater County",
+    "fips_id": 16035,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Custer County",
+    "fips_id": 16037,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elmore County",
+    "fips_id": 16039,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 16041,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fremont County",
+    "fips_id": 16043,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gem County",
+    "fips_id": 16045,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gooding County",
+    "fips_id": 16047,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Idaho County",
+    "fips_id": 16049,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 16051,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jerome County",
+    "fips_id": 16053,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kootenai County",
+    "fips_id": 16055,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Latah County",
+    "fips_id": 16057,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lemhi County",
+    "fips_id": 16059,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lewis County",
+    "fips_id": 16061,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 16063,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 16065,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Minidoka County",
+    "fips_id": 16067,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nez Perce County",
+    "fips_id": 16069,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oneida County",
+    "fips_id": 16071,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Owyhee County",
+    "fips_id": 16073,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Payette County",
+    "fips_id": 16075,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Power County",
+    "fips_id": 16077,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Shoshone County",
+    "fips_id": 16079,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Teton County",
+    "fips_id": 16081,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Twin Falls County",
+    "fips_id": 16083,
+    "mlb": "mlb_20",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Valley County",
+    "fips_id": 16085,
+    "mlb": "mlb_25",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 16087,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Belknap County",
+    "fips_id": 33001,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carroll County",
+    "fips_id": 33003,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cheshire County",
+    "fips_id": 33005,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Coos County",
+    "fips_id": 33007,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grafton County",
+    "fips_id": 33009,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hillsborough County",
+    "fips_id": 33011,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Merrimack County",
+    "fips_id": 33013,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rockingham County",
+    "fips_id": 33015,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Strafford County",
+    "fips_id": 33017,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sullivan County",
+    "fips_id": 33019,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Aleutians East Borough",
+    "fips_id": 2013,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Aleutians West Census Area",
+    "fips_id": 2016,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Anchorage Municipality",
+    "fips_id": 2020,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bethel Census Area",
+    "fips_id": 2050,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bristol Bay Borough",
+    "fips_id": 2060,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Denali Borough",
+    "fips_id": 2068,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dillingham Census Area",
+    "fips_id": 2070,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fairbanks North Star Borough",
+    "fips_id": 2090,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Haines Borough",
+    "fips_id": 2100,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hoonah-Angoon Census Area",
+    "fips_id": 2105,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Juneau City and Borough",
+    "fips_id": 2110,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kenai Peninsula Borough",
+    "fips_id": 2122,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ketchikan Gateway Borough",
+    "fips_id": 2130,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kodiak Island Borough",
+    "fips_id": 2150,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kusilvak Census Area",
+    "fips_id": 2158,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lake and Peninsula Borough",
+    "fips_id": 2164,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Matanuska-Susitna Borough",
+    "fips_id": 2170,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nome Census Area",
+    "fips_id": 2180,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "North Slope Borough",
+    "fips_id": 2185,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Northwest Arctic Borough",
+    "fips_id": 2188,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Petersburg Borough",
+    "fips_id": 2195,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Prince of Wales-Hyder Census Area",
+    "fips_id": 2198,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sitka City and Borough",
+    "fips_id": 2220,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Skagway Municipality",
+    "fips_id": 2230,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Southeast Fairbanks Census Area",
+    "fips_id": 2240,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Valdez-Cordova Census Area",
+    "fips_id": 2261,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wrangell City and Borough",
+    "fips_id": 2275,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yakutat City and Borough",
+    "fips_id": 2282,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yukon-Koyukuk Census Area",
+    "fips_id": 2290,
+    "mlb": "mlb_25",
+    "aaa": "aaa_28",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

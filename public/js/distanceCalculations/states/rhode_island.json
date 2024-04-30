@@ -1,0 +1,8 @@
+[
+    {"county": "Bristol", "fips_id": "44001", "latitude": 41.7102, "longitude": -71.2861},
+    {"county": "Kent", "fips_id": "44003", "latitude": 41.6670, "longitude": -71.5763},
+    {"county": "Newport", "fips_id": "44005", "latitude": 41.4993, "longitude": -71.3089},
+    {"county": "Providence", "fips_id": "44007", "latitude": 41.8296, "longitude": -71.5148},
+    {"county": "Washington", "fips_id": "44009", "latitude": 41.4595, "longitude": -71.6554}
+]
+    

@@ -1,0 +1,10 @@
+[
+    {"county": "Fairfield County", "fips_id": "09001", "latitude": 41.2551, "longitude": -73.3709},
+    {"county": "Hartford County", "fips_id": "09003", "latitude": 41.7922, "longitude": -72.7205},
+    {"county": "Litchfield County", "fips_id": "09005", "latitude": 41.7773, "longitude": -73.2392},
+    {"county": "Middlesex County", "fips_id": "09007", "latitude": 41.4874, "longitude": -72.5802},
+    {"county": "New Haven County", "fips_id": "09009", "latitude": 41.3557, "longitude": -72.944},
+    {"county": "New London County", "fips_id": "09011", "latitude": 41.4959, "longitude": -72.1043},
+    {"county": "Tolland County", "fips_id": "09013", "latitude": 41.8585, "longitude": -72.3307},
+    {"county": "Windham County", "fips_id": "09015", "latitude": 41.7942, "longitude": -71.9962}
+]

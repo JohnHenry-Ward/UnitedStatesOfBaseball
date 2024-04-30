@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kent County",
+    "fips_id": 10001,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "New Castle County",
+    "fips_id": 10003,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sussex County",
+    "fips_id": 10005,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

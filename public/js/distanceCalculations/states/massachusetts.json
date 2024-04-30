@@ -1,0 +1,16 @@
+[
+    {"county": "Barnstable County", "fips_id": "25001", "latitude": 41.7587, "longitude": -70.5006},
+    {"county": "Berkshire County", "fips_id": "25003", "latitude": 42.3116, "longitude": -73.2366},
+    {"county": "Bristol County", "fips_id": "25005", "latitude": 41.8095, "longitude": -71.0895},
+    {"county": "Dukes County", "fips_id": "25007", "latitude": 41.3912, "longitude": -70.6455},
+    {"county": "Essex County", "fips_id": "25009", "latitude": 42.654, "longitude": -70.951},
+    {"county": "Franklin County", "fips_id": "25011", "latitude": 42.5808, "longitude": -72.5964},
+    {"county": "Hampden County", "fips_id": "25013", "latitude": 42.1429, "longitude": -72.6047},
+    {"county": "Hampshire County", "fips_id": "25015", "latitude": 42.3917, "longitude": -72.6289},
+    {"county": "Middlesex County", "fips_id": "25017", "latitude": 42.4665, "longitude": -71.2874},
+    {"county": "Nantucket County", "fips_id": "25019", "latitude": 41.2835, "longitude": -70.0995},
+    {"county": "Norfolk County", "fips_id": "25021", "latitude": 42.1791, "longitude": -71.1446},
+    {"county": "Plymouth County", "fips_id": "25023", "latitude": 41.9941, "longitude": -70.7708},
+    {"county": "Suffolk County", "fips_id": "25025", "latitude": 42.3601, "longitude": -71.0589},
+    {"county": "Worcester County", "fips_id": "25027", "latitude": 42.3192, "longitude": -71.8039}
+]

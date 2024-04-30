@@ -1,0 +1,17 @@
+[
+    {"county": "Addison", "fips_id": "50001", "latitude": 44.0356, "longitude": -73.1350},
+    {"county": "Bennington", "fips_id": "50003", "latitude": 43.0329, "longitude": -73.1293},
+    {"county": "Caledonia", "fips_id": "50005", "latitude": 44.4523, "longitude": -72.0656},
+    {"county": "Chittenden", "fips_id": "50007", "latitude": 44.4759, "longitude": -73.1594},
+    {"county": "Essex", "fips_id": "50009", "latitude": 44.6785, "longitude": -71.7005},
+    {"county": "Franklin", "fips_id": "50011", "latitude": 44.9060, "longitude": -72.8813},
+    {"county": "Grand Isle", "fips_id": "50013", "latitude": 44.7967, "longitude": -73.3003},
+    {"county": "Lamoille", "fips_id": "50015", "latitude": 44.5600, "longitude": -72.6358},
+    {"county": "Orange", "fips_id": "50017", "latitude": 44.0002, "longitude": -72.4029},
+    {"county": "Orleans", "fips_id": "50019", "latitude": 44.8261, "longitude": -72.2696},
+    {"county": "Rutland", "fips_id": "50021", "latitude": 43.6017, "longitude": -73.0513},
+    {"county": "Washington", "fips_id": "50023", "latitude": 44.2924, "longitude": -72.6129},
+    {"county": "Windham", "fips_id": "50025", "latitude": 42.9664, "longitude": -72.6869},
+    {"county": "Windsor", "fips_id": "50027", "latitude": 43.5760, "longitude": -72.5758}
+  ]
+  

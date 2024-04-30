@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Allegany County",
+    "fips_id": 24001,
+    "mlb": "mlb_22",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Anne Arundel County",
+    "fips_id": 24003,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baltimore County",
+    "fips_id": 24005,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calvert County",
+    "fips_id": 24009,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Caroline County",
+    "fips_id": 24011,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carroll County",
+    "fips_id": 24013,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cecil County",
+    "fips_id": 24015,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Charles County",
+    "fips_id": 24017,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dorchester County",
+    "fips_id": 24019,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Frederick County",
+    "fips_id": 24021,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Garrett County",
+    "fips_id": 24023,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Harford County",
+    "fips_id": 24025,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Howard County",
+    "fips_id": 24027,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kent County",
+    "fips_id": 24029,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery County",
+    "fips_id": 24031,
+    "mlb": "mlb_30",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Prince George's County",
+    "fips_id": 24033,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Queen Anne's County",
+    "fips_id": 24035,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Mary's County",
+    "fips_id": 24037,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Somerset County",
+    "fips_id": 24039,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Talbot County",
+    "fips_id": 24041,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 24043,
+    "mlb": "mlb_30",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wicomico County",
+    "fips_id": 24045,
+    "mlb": "mlb_30",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Worcester County",
+    "fips_id": 24047,
+    "mlb": "mlb_3",
+    "aaa": "aaa_16",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baltimore City",
+    "fips_id": 24510,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_8",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

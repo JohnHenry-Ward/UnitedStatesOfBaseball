@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Apache County",
+    "fips_id": 4001,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cochise County",
+    "fips_id": 4003,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Coconino County",
+    "fips_id": 4005,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gila County",
+    "fips_id": 4007,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Graham County",
+    "fips_id": 4009,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greenlee County",
+    "fips_id": 4011,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "La Paz County",
+    "fips_id": 4012,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Maricopa County",
+    "fips_id": 4013,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mohave County",
+    "fips_id": 4015,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Navajo County",
+    "fips_id": 4017,
+    "mlb": "mlb_1",
+    "aaa": "aaa_1",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pima County",
+    "fips_id": 4019,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pinal County",
+    "fips_id": 4021,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Santa Cruz County",
+    "fips_id": 4023,
+    "mlb": "mlb_1",
+    "aaa": "aaa_6",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yavapai County",
+    "fips_id": 4025,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yuma County",
+    "fips_id": 4027,
+    "mlb": "mlb_1",
+    "aaa": "aaa_11",
+    "aa": "aa_15",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

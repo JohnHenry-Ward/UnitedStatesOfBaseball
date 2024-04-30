@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Adams",
+    "fips_id": 38001,
+    "mlb": "mlb_9",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Barnes",
+    "fips_id": 38003,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Benson",
+    "fips_id": 38005,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Billings",
+    "fips_id": 38007,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bottineau",
+    "fips_id": 38009,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bowman",
+    "fips_id": 38011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Burke",
+    "fips_id": 38013,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Burleigh",
+    "fips_id": 38015,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cass",
+    "fips_id": 38017,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cavalier",
+    "fips_id": 38019,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dickey",
+    "fips_id": 38021,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Divide",
+    "fips_id": 38023,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dunn",
+    "fips_id": 38025,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Eddy",
+    "fips_id": 38027,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Emmons",
+    "fips_id": 38029,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Foster",
+    "fips_id": 38031,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Golden Valley",
+    "fips_id": 38033,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grand Forks",
+    "fips_id": 38035,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grant",
+    "fips_id": 38037,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Griggs",
+    "fips_id": 38039,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hettinger",
+    "fips_id": 38041,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kidder",
+    "fips_id": 38043,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "LaMoure",
+    "fips_id": 38045,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Logan",
+    "fips_id": 38047,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McHenry",
+    "fips_id": 38049,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McIntosh",
+    "fips_id": 38051,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McKenzie",
+    "fips_id": 38053,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McLean",
+    "fips_id": 38055,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mercer",
+    "fips_id": 38057,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morton",
+    "fips_id": 38059,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mountrail",
+    "fips_id": 38061,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nelson",
+    "fips_id": 38063,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oliver",
+    "fips_id": 38065,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pembina",
+    "fips_id": 38067,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pierce",
+    "fips_id": 38069,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ramsey",
+    "fips_id": 38071,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ransom",
+    "fips_id": 38073,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Renville",
+    "fips_id": 38075,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Richland",
+    "fips_id": 38077,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rolette",
+    "fips_id": 38079,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sargent",
+    "fips_id": 38081,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sheridan",
+    "fips_id": 38083,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sioux",
+    "fips_id": 38085,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Slope",
+    "fips_id": 38087,
+    "mlb": "mlb_9",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stark",
+    "fips_id": 38089,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Steele",
+    "fips_id": 38091,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stutsman",
+    "fips_id": 38093,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Towner",
+    "fips_id": 38095,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Traill",
+    "fips_id": 38097,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Walsh",
+    "fips_id": 38099,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ward",
+    "fips_id": 38101,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wells",
+    "fips_id": 38103,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Williams",
+    "fips_id": 38105,
+    "mlb": "mlb_17",
+    "aaa": "aaa_25",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Androscoggin County",
+    "fips_id": 23001,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Aroostook County",
+    "fips_id": 23003,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cumberland County",
+    "fips_id": 23005,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 23007,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hancock County",
+    "fips_id": 23009,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kennebec County",
+    "fips_id": 23011,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Knox County",
+    "fips_id": 23013,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 23015,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oxford County",
+    "fips_id": 23017,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Penobscot County",
+    "fips_id": 23019,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Piscataquis County",
+    "fips_id": 23021,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sagadahoc County",
+    "fips_id": 23023,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Somerset County",
+    "fips_id": 23025,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Waldo County",
+    "fips_id": 23027,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 23029,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "York County",
+    "fips_id": 23031,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_21",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

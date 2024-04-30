@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Barnstable County",
+    "fips_id": 25001,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Berkshire County",
+    "fips_id": 25003,
+    "mlb": "mlb_18",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bristol County",
+    "fips_id": 25005,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dukes County",
+    "fips_id": 25007,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Essex County",
+    "fips_id": 25009,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 25011,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hampden County",
+    "fips_id": 25013,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hampshire County",
+    "fips_id": 25015,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Middlesex County",
+    "fips_id": 25017,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nantucket County",
+    "fips_id": 25019,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Norfolk County",
+    "fips_id": 25021,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Plymouth County",
+    "fips_id": 25023,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Suffolk County",
+    "fips_id": 25025,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Worcester County",
+    "fips_id": 25027,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

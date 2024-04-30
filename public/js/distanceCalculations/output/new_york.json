@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Albany County",
+    "fips_id": 36001,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Allegany County",
+    "fips_id": 36003,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bronx County",
+    "fips_id": 36005,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Broome County",
+    "fips_id": 36007,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cattaraugus County",
+    "fips_id": 36009,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cayuga County",
+    "fips_id": 36011,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chautauqua County",
+    "fips_id": 36013,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chemung County",
+    "fips_id": 36015,
+    "mlb": "mlb_29",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chenango County",
+    "fips_id": 36017,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clinton County",
+    "fips_id": 36019,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Columbia County",
+    "fips_id": 36021,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cortland County",
+    "fips_id": 36023,
+    "mlb": "mlb_18",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Delaware County",
+    "fips_id": 36025,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dutchess County",
+    "fips_id": 36027,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Erie County",
+    "fips_id": 36029,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Essex County",
+    "fips_id": 36031,
+    "mlb": "mlb_4",
+    "aaa": "aaa_27",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 36033,
+    "mlb": "mlb_4",
+    "aaa": "aaa_20",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fulton County",
+    "fips_id": 36035,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Genesee County",
+    "fips_id": 36037,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greene County",
+    "fips_id": 36039,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hamilton County",
+    "fips_id": 36041,
+    "mlb": "mlb_4",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Herkimer County",
+    "fips_id": 36043,
+    "mlb": "mlb_18",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 36045,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kings County",
+    "fips_id": 36047,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lewis County",
+    "fips_id": 36049,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Livingston County",
+    "fips_id": 36051,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 36053,
+    "mlb": "mlb_18",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe County",
+    "fips_id": 36055,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery County",
+    "fips_id": 36057,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nassau County",
+    "fips_id": 36059,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "New York County",
+    "fips_id": 36061,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Niagara County",
+    "fips_id": 36063,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oneida County",
+    "fips_id": 36065,
+    "mlb": "mlb_18",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Onondaga County",
+    "fips_id": 36067,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ontario County",
+    "fips_id": 36069,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orange County",
+    "fips_id": 36071,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orleans County",
+    "fips_id": 36073,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oswego County",
+    "fips_id": 36075,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Otsego County",
+    "fips_id": 36077,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Putnam County",
+    "fips_id": 36079,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Queens County",
+    "fips_id": 36081,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rensselaer County",
+    "fips_id": 36083,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Richmond County",
+    "fips_id": 36085,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rockland County",
+    "fips_id": 36087,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Lawrence County",
+    "fips_id": 36089,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Saratoga County",
+    "fips_id": 36091,
+    "mlb": "mlb_4",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Schenectady County",
+    "fips_id": 36093,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Schoharie County",
+    "fips_id": 36095,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Schuyler County",
+    "fips_id": 36097,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Seneca County",
+    "fips_id": 36099,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Steuben County",
+    "fips_id": 36101,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Suffolk County",
+    "fips_id": 36103,
+    "mlb": "mlb_19",
+    "aaa": "aaa_12",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sullivan County",
+    "fips_id": 36105,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tioga County",
+    "fips_id": 36107,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tompkins County",
+    "fips_id": 36109,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ulster County",
+    "fips_id": 36111,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warren County",
+    "fips_id": 36113,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 36115,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_18",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wayne County",
+    "fips_id": 36117,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Westchester County",
+    "fips_id": 36119,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wyoming County",
+    "fips_id": 36121,
+    "mlb": "mlb_29",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Yates County",
+    "fips_id": 36123,
+    "mlb": "mlb_29",
+    "aaa": "aaa_20",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

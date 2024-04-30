@@ -1,0 +1,1592 @@
+[
+  {
+    "name": "Appling County",
+    "fips_id": 13001,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Atkinson County",
+    "fips_id": 13003,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bacon County",
+    "fips_id": 13005,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baker County",
+    "fips_id": 13007,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Baldwin County",
+    "fips_id": 13009,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Banks County",
+    "fips_id": 13011,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Barrow County",
+    "fips_id": 13013,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bartow County",
+    "fips_id": 13015,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ben Hill County",
+    "fips_id": 13017,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Berrien County",
+    "fips_id": 13019,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bibb County",
+    "fips_id": 13021,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bleckley County",
+    "fips_id": 13023,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Brantley County",
+    "fips_id": 13025,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Brooks County",
+    "fips_id": 13027,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bryan County",
+    "fips_id": 13029,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bulloch County",
+    "fips_id": 13031,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Burke County",
+    "fips_id": 13033,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Butts County",
+    "fips_id": 13035,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Calhoun County",
+    "fips_id": 13037,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Camden County",
+    "fips_id": 13039,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Candler County",
+    "fips_id": 13043,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carroll County",
+    "fips_id": 13045,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_6",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Catoosa County",
+    "fips_id": 13047,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Charlton County",
+    "fips_id": 13049,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chatham County",
+    "fips_id": 13051,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chattahoochee County",
+    "fips_id": 13053,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chattooga County",
+    "fips_id": 13055,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cherokee County",
+    "fips_id": 13057,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clarke County",
+    "fips_id": 13059,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clay County",
+    "fips_id": 13061,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clayton County",
+    "fips_id": 13063,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clinch County",
+    "fips_id": 13065,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cobb County",
+    "fips_id": 13067,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Coffee County",
+    "fips_id": 13069,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Colquitt County",
+    "fips_id": 13071,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Columbia County",
+    "fips_id": 13073,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cook County",
+    "fips_id": 13075,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Coweta County",
+    "fips_id": 13077,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crawford County",
+    "fips_id": 13079,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crisp County",
+    "fips_id": 13081,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dade County",
+    "fips_id": 13083,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dawson County",
+    "fips_id": 13085,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Decatur County",
+    "fips_id": 13087,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "DeKalb County",
+    "fips_id": 13089,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dodge County",
+    "fips_id": 13091,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dooly County",
+    "fips_id": 13093,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dougherty County",
+    "fips_id": 13095,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Douglas County",
+    "fips_id": 13097,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Early County",
+    "fips_id": 13099,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Echols County",
+    "fips_id": 13101,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Effingham County",
+    "fips_id": 13103,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elbert County",
+    "fips_id": 13105,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Emanuel County",
+    "fips_id": 13107,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Evans County",
+    "fips_id": 13109,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fannin County",
+    "fips_id": 13111,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fayette County",
+    "fips_id": 13113,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Floyd County",
+    "fips_id": 13115,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Forsyth County",
+    "fips_id": 13117,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 13119,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fulton County",
+    "fips_id": 13121,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gilmer County",
+    "fips_id": 13123,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Glascock County",
+    "fips_id": 13125,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Glynn County",
+    "fips_id": 13127,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gordon County",
+    "fips_id": 13129,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grady County",
+    "fips_id": 13131,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greene County",
+    "fips_id": 13133,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gwinnett County",
+    "fips_id": 13135,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Habersham County",
+    "fips_id": 13137,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hall County",
+    "fips_id": 13139,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hancock County",
+    "fips_id": 13141,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Haralson County",
+    "fips_id": 13143,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Harris County",
+    "fips_id": 13145,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hart County",
+    "fips_id": 13147,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Heard County",
+    "fips_id": 13149,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Henry County",
+    "fips_id": 13151,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Houston County",
+    "fips_id": 13153,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Irwin County",
+    "fips_id": 13155,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson County",
+    "fips_id": 13157,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jasper County",
+    "fips_id": 13159,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jeff Davis County",
+    "fips_id": 13161,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 13163,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jenkins County",
+    "fips_id": 13165,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Johnson County",
+    "fips_id": 13167,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jones County",
+    "fips_id": 13169,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lamar County",
+    "fips_id": 13171,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lanier County",
+    "fips_id": 13173,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Laurens County",
+    "fips_id": 13175,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lee County",
+    "fips_id": 13177,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Liberty County",
+    "fips_id": 13179,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 13181,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Long County",
+    "fips_id": 13183,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lowndes County",
+    "fips_id": 13185,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lumpkin County",
+    "fips_id": 13187,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McDuffie County",
+    "fips_id": 13189,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McIntosh County",
+    "fips_id": 13191,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Macon County",
+    "fips_id": 13193,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 13195,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marion County",
+    "fips_id": 13197,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Meriwether County",
+    "fips_id": 13199,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Miller County",
+    "fips_id": 13201,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mitchell County",
+    "fips_id": 13205,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe County",
+    "fips_id": 13207,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery County",
+    "fips_id": 13209,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morgan County",
+    "fips_id": 13211,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Murray County",
+    "fips_id": 13213,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Muscogee County",
+    "fips_id": 13215,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Newton County",
+    "fips_id": 13217,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oconee County",
+    "fips_id": 13219,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Oglethorpe County",
+    "fips_id": 13221,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Paulding County",
+    "fips_id": 13223,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Peach County",
+    "fips_id": 13225,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pickens County",
+    "fips_id": 13227,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pierce County",
+    "fips_id": 13229,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pike County",
+    "fips_id": 13231,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Polk County",
+    "fips_id": 13233,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pulaski County",
+    "fips_id": 13235,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Putnam County",
+    "fips_id": 13237,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Quitman County",
+    "fips_id": 13239,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rabun County",
+    "fips_id": 13241,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Randolph County",
+    "fips_id": 13243,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Richmond County",
+    "fips_id": 13245,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rockdale County",
+    "fips_id": 13247,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Schley County",
+    "fips_id": 13249,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Screven County",
+    "fips_id": 13251,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Seminole County",
+    "fips_id": 13253,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Spalding County",
+    "fips_id": 13255,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stephens County",
+    "fips_id": 13257,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Stewart County",
+    "fips_id": 13259,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sumter County",
+    "fips_id": 13261,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Talbot County",
+    "fips_id": 13263,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Taliaferro County",
+    "fips_id": 13265,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tattnall County",
+    "fips_id": 13267,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Taylor County",
+    "fips_id": 13269,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Telfair County",
+    "fips_id": 13271,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Terrell County",
+    "fips_id": 13273,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Thomas County",
+    "fips_id": 13275,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tift County",
+    "fips_id": 13277,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Toombs County",
+    "fips_id": 13279,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Towns County",
+    "fips_id": 13281,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Treutlen County",
+    "fips_id": 13283,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Troup County",
+    "fips_id": 13285,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Turner County",
+    "fips_id": 13287,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Twiggs County",
+    "fips_id": 13289,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 13291,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Upson County",
+    "fips_id": 13293,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Walker County",
+    "fips_id": 13295,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Walton County",
+    "fips_id": 13297,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ware County",
+    "fips_id": 13299,
+    "mlb": "mlb_27",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warren County",
+    "fips_id": 13301,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 13303,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wayne County",
+    "fips_id": 13305,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Webster County",
+    "fips_id": 13307,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wheeler County",
+    "fips_id": 13309,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "White County",
+    "fips_id": 13311,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Whitfield County",
+    "fips_id": 13313,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_9",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wilcox County",
+    "fips_id": 13315,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wilkes County",
+    "fips_id": 13317,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wilkinson County",
+    "fips_id": 13319,
+    "mlb": "mlb_2",
+    "aaa": "aaa_7",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Worth County",
+    "fips_id": 13321,
+    "mlb": "mlb_2",
+    "aaa": "aaa_10",
+    "aa": "aa_17",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

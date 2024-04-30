@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Albany",
+    "fips_id": 56001,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Big Horn",
+    "fips_id": 56003,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Campbell",
+    "fips_id": 56005,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carbon",
+    "fips_id": 56007,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Converse",
+    "fips_id": 56009,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crook",
+    "fips_id": 56011,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fremont",
+    "fips_id": 56013,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Goshen",
+    "fips_id": 56015,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hot Springs",
+    "fips_id": 56017,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Johnson",
+    "fips_id": 56019,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Laramie",
+    "fips_id": 56021,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln",
+    "fips_id": 56023,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Natrona",
+    "fips_id": 56025,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Niobrara",
+    "fips_id": 56027,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Park",
+    "fips_id": 56029,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Platte",
+    "fips_id": 56031,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sheridan",
+    "fips_id": 56033,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sublette",
+    "fips_id": 56035,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sweetwater",
+    "fips_id": 56037,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Teton",
+    "fips_id": 56039,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Uinta",
+    "fips_id": 56041,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washakie",
+    "fips_id": 56043,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Weston",
+    "fips_id": 56045,
+    "mlb": "mlb_9",
+    "aaa": "aaa_23",
+    "aa": "aa_30",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

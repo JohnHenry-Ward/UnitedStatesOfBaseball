@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Carson City",
+    "fips_id": 32510,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Churchill County",
+    "fips_id": 32001,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clark County",
+    "fips_id": 32003,
+    "mlb": "mlb_13",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Douglas County",
+    "fips_id": 32005,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elko County",
+    "fips_id": 32007,
+    "mlb": "mlb_20",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Esmeralda County",
+    "fips_id": 32009,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Eureka County",
+    "fips_id": 32011,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Humboldt County",
+    "fips_id": 32013,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lander County",
+    "fips_id": 32015,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lincoln County",
+    "fips_id": 32017,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lyon County",
+    "fips_id": 32019,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mineral County",
+    "fips_id": 32021,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Nye County",
+    "fips_id": 32023,
+    "mlb": "mlb_14",
+    "aaa": "aaa_11",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pershing County",
+    "fips_id": 32027,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Storey County",
+    "fips_id": 32029,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washoe County",
+    "fips_id": 32031,
+    "mlb": "mlb_20",
+    "aaa": "aaa_19",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "White Pine County",
+    "fips_id": 32033,
+    "mlb": "mlb_20",
+    "aaa": "aaa_23",
+    "aa": "aa_3",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

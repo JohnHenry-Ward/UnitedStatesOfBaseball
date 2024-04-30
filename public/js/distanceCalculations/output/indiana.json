@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Adams County",
+    "fips_id": 18001,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Allen County",
+    "fips_id": 18003,
+    "mlb": "mlb_10",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bartholomew County",
+    "fips_id": 18005,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Benton County",
+    "fips_id": 18007,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Blackford County",
+    "fips_id": 18009,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Boone County",
+    "fips_id": 18011,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Brown County",
+    "fips_id": 18013,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carroll County",
+    "fips_id": 18015,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cass County",
+    "fips_id": 18017,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clark County",
+    "fips_id": 18019,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clay County",
+    "fips_id": 18021,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clinton County",
+    "fips_id": 18023,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crawford County",
+    "fips_id": 18025,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Daviess County",
+    "fips_id": 18027,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dearborn County",
+    "fips_id": 18029,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Decatur County",
+    "fips_id": 18031,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "DeKalb County",
+    "fips_id": 18033,
+    "mlb": "mlb_10",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Delaware County",
+    "fips_id": 18035,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dubois County",
+    "fips_id": 18037,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elkhart County",
+    "fips_id": 18039,
+    "mlb": "mlb_5",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fayette County",
+    "fips_id": 18041,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Floyd County",
+    "fips_id": 18043,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fountain County",
+    "fips_id": 18045,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin County",
+    "fips_id": 18047,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fulton County",
+    "fips_id": 18049,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Gibson County",
+    "fips_id": 18051,
+    "mlb": "mlb_26",
+    "aaa": "aaa_13",
+    "aa": "aa_24",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Grant County",
+    "fips_id": 18053,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greene County",
+    "fips_id": 18055,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hamilton County",
+    "fips_id": 18057,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hancock County",
+    "fips_id": 18059,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Harrison County",
+    "fips_id": 18061,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Hendricks County",
+    "fips_id": 18063,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Henry County",
+    "fips_id": 18065,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Howard County",
+    "fips_id": 18067,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Huntington County",
+    "fips_id": 18069,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jackson County",
+    "fips_id": 18071,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jasper County",
+    "fips_id": 18073,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jay County",
+    "fips_id": 18075,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson County",
+    "fips_id": 18077,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jennings County",
+    "fips_id": 18079,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Johnson County",
+    "fips_id": 18081,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Knox County",
+    "fips_id": 18083,
+    "mlb": "mlb_26",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kosciusko County",
+    "fips_id": 18085,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "LaGrange County",
+    "fips_id": 18087,
+    "mlb": "mlb_5",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lake County",
+    "fips_id": 18089,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "LaPorte County",
+    "fips_id": 18091,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lawrence County",
+    "fips_id": 18093,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Madison County",
+    "fips_id": 18095,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marion County",
+    "fips_id": 18097,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Marshall County",
+    "fips_id": 18099,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Martin County",
+    "fips_id": 18101,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Miami County",
+    "fips_id": 18103,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe County",
+    "fips_id": 18105,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery County",
+    "fips_id": 18107,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Morgan County",
+    "fips_id": 18109,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Newton County",
+    "fips_id": 18111,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Noble County",
+    "fips_id": 18113,
+    "mlb": "mlb_5",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ohio County",
+    "fips_id": 18115,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Orange County",
+    "fips_id": 18117,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Owen County",
+    "fips_id": 18119,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Parke County",
+    "fips_id": 18121,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Perry County",
+    "fips_id": 18123,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pike County",
+    "fips_id": 18125,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Porter County",
+    "fips_id": 18127,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Posey County",
+    "fips_id": 18129,
+    "mlb": "mlb_26",
+    "aaa": "aaa_13",
+    "aa": "aa_24",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pulaski County",
+    "fips_id": 18131,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Putnam County",
+    "fips_id": 18133,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Randolph County",
+    "fips_id": 18135,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Ripley County",
+    "fips_id": 18137,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Rush County",
+    "fips_id": 18139,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "St. Joseph County",
+    "fips_id": 18141,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Scott County",
+    "fips_id": 18143,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Shelby County",
+    "fips_id": 18145,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Spencer County",
+    "fips_id": 18147,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Starke County",
+    "fips_id": 18149,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Steuben County",
+    "fips_id": 18151,
+    "mlb": "mlb_10",
+    "aaa": "aaa_29",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sullivan County",
+    "fips_id": 18153,
+    "mlb": "mlb_26",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Switzerland County",
+    "fips_id": 18155,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tippecanoe County",
+    "fips_id": 18157,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tipton County",
+    "fips_id": 18159,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union County",
+    "fips_id": 18161,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Vanderburgh County",
+    "fips_id": 18163,
+    "mlb": "mlb_26",
+    "aaa": "aaa_13",
+    "aa": "aa_24",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Vermillion County",
+    "fips_id": 18165,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Vigo County",
+    "fips_id": 18167,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wabash County",
+    "fips_id": 18169,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warren County",
+    "fips_id": 18171,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warrick County",
+    "fips_id": 18173,
+    "mlb": "mlb_26",
+    "aaa": "aaa_13",
+    "aa": "aa_24",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington County",
+    "fips_id": 18175,
+    "mlb": "mlb_7",
+    "aaa": "aaa_13",
+    "aa": "aa_28",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wayne County",
+    "fips_id": 18177,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wells County",
+    "fips_id": 18179,
+    "mlb": "mlb_7",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "White County",
+    "fips_id": 18181,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Whitley County",
+    "fips_id": 18183,
+    "mlb": "mlb_5",
+    "aaa": "aaa_9",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

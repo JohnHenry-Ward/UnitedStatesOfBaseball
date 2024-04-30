@@ -1,0 +1,26 @@
+[
+    {"county": "Albany", "fips_id": "56001", "latitude": 41.6548, "longitude": -105.7236},
+    {"county": "Big Horn", "fips_id": "56003", "latitude": 44.5231, "longitude": -107.9961},
+    {"county": "Campbell", "fips_id": "56005", "latitude": 44.2509, "longitude": -105.5478},
+    {"county": "Carbon", "fips_id": "56007", "latitude": 41.6982, "longitude": -107.7073},
+    {"county": "Converse", "fips_id": "56009", "latitude": 42.9729, "longitude": -105.5053},
+    {"county": "Crook", "fips_id": "56011", "latitude": 44.5883, "longitude": -104.5675},
+    {"county": "Fremont", "fips_id": "56013", "latitude": 43.0410, "longitude": -108.6297},
+    {"county": "Goshen", "fips_id": "56015", "latitude": 42.0947, "longitude": -104.3535},
+    {"county": "Hot Springs", "fips_id": "56017", "latitude": 43.7419, "longitude": -108.4467},
+    {"county": "Johnson", "fips_id": "56019", "latitude": 44.0318, "longitude": -106.5738},
+    {"county": "Laramie", "fips_id": "56021", "latitude": 41.3120, "longitude": -104.5675},
+    {"county": "Lincoln", "fips_id": "56023", "latitude": 42.2592, "longitude": -110.6169},
+    {"county": "Natrona", "fips_id": "56025", "latitude": 42.9612, "longitude": -106.7979},
+    {"county": "Niobrara", "fips_id": "56027", "latitude": 43.0550, "longitude": -104.4759},
+    {"county": "Park", "fips_id": "56029", "latitude": 44.5217, "longitude": -109.5853},
+    {"county": "Platte", "fips_id": "56031", "latitude": 42.1254, "longitude": -104.9978},
+    {"county": "Sheridan", "fips_id": "56033", "latitude": 44.7872, "longitude": -106.8867},
+    {"county": "Sublette", "fips_id": "56035", "latitude": 42.7649, "longitude": -109.8782},
+    {"county": "Sweetwater", "fips_id": "56037", "latitude": 41.6625, "longitude": -108.8757},
+    {"county": "Teton", "fips_id": "56039", "latitude": 43.8554, "longitude": -110.5891},
+    {"county": "Uinta", "fips_id": "56041", "latitude": 41.2879, "longitude": -110.5583},
+    {"county": "Washakie", "fips_id": "56043", "latitude": 43.8781, "longitude": -107.6691},
+    {"county": "Weston", "fips_id": "56045", "latitude": 43.8396, "longitude": -104.5675}
+  ]
+  

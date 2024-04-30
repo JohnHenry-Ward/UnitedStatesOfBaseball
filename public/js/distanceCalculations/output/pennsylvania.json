@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Adams",
+    "fips_id": 42001,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Allegheny",
+    "fips_id": 42003,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Armstrong",
+    "fips_id": 42005,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Beaver",
+    "fips_id": 42007,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bedford",
+    "fips_id": 42009,
+    "mlb": "mlb_22",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Berks",
+    "fips_id": 42011,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Blair",
+    "fips_id": 42013,
+    "mlb": "mlb_22",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bradford",
+    "fips_id": 42015,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Bucks",
+    "fips_id": 42017,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Butler",
+    "fips_id": 42019,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cambria",
+    "fips_id": 42021,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cameron",
+    "fips_id": 42023,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Carbon",
+    "fips_id": 42025,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Centre",
+    "fips_id": 42027,
+    "mlb": "mlb_22",
+    "aaa": "aaa_24",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Chester",
+    "fips_id": 42029,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clarion",
+    "fips_id": 42031,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clearfield",
+    "fips_id": 42033,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Clinton",
+    "fips_id": 42035,
+    "mlb": "mlb_22",
+    "aaa": "aaa_24",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Columbia",
+    "fips_id": 42037,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Crawford",
+    "fips_id": 42039,
+    "mlb": "mlb_8",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Cumberland",
+    "fips_id": 42041,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Dauphin",
+    "fips_id": 42043,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Delaware",
+    "fips_id": 42045,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Elk",
+    "fips_id": 42047,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Erie",
+    "fips_id": 42049,
+    "mlb": "mlb_8",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fayette",
+    "fips_id": 42051,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Forest",
+    "fips_id": 42053,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Franklin",
+    "fips_id": 42055,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Fulton",
+    "fips_id": 42057,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Greene",
+    "fips_id": 42059,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Huntingdon",
+    "fips_id": 42061,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Indiana",
+    "fips_id": 42063,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Jefferson",
+    "fips_id": 42065,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Juniata",
+    "fips_id": 42067,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lackawanna",
+    "fips_id": 42069,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lancaster",
+    "fips_id": 42071,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lawrence",
+    "fips_id": 42073,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lebanon",
+    "fips_id": 42075,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lehigh",
+    "fips_id": 42077,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Luzerne",
+    "fips_id": 42079,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Lycoming",
+    "fips_id": 42081,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "McKean",
+    "fips_id": 42083,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mercer",
+    "fips_id": 42085,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Mifflin",
+    "fips_id": 42087,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Monroe",
+    "fips_id": 42089,
+    "mlb": "mlb_18",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montgomery",
+    "fips_id": 42091,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Montour",
+    "fips_id": 42093,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Northampton",
+    "fips_id": 42095,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Northumberland",
+    "fips_id": 42097,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Perry",
+    "fips_id": 42099,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Philadelphia",
+    "fips_id": 42101,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Pike",
+    "fips_id": 42103,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_26",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Potter",
+    "fips_id": 42105,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Schuylkill",
+    "fips_id": 42107,
+    "mlb": "mlb_21",
+    "aaa": "aaa_12",
+    "aa": "aa_22",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Snyder",
+    "fips_id": 42109,
+    "mlb": "mlb_3",
+    "aaa": "aaa_24",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Somerset",
+    "fips_id": 42111,
+    "mlb": "mlb_22",
+    "aaa": "aaa_12",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Sullivan",
+    "fips_id": 42113,
+    "mlb": "mlb_21",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Susquehanna",
+    "fips_id": 42115,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Tioga",
+    "fips_id": 42117,
+    "mlb": "mlb_29",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Union",
+    "fips_id": 42119,
+    "mlb": "mlb_3",
+    "aaa": "aaa_24",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Venango",
+    "fips_id": 42121,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Warren",
+    "fips_id": 42123,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_11",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington",
+    "fips_id": 42125,
+    "mlb": "mlb_22",
+    "aaa": "aaa_4",
+    "aa": "aa_1",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wayne",
+    "fips_id": 42127,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Westmoreland",
+    "fips_id": 42129,
+    "mlb": "mlb_22",
+    "aaa": "aaa_2",
+    "aa": "aa_2",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Wyoming",
+    "fips_id": 42131,
+    "mlb": "mlb_18",
+    "aaa": "aaa_24",
+    "aa": "aa_7",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "York",
+    "fips_id": 42133,
+    "mlb": "mlb_3",
+    "aaa": "aaa_12",
+    "aa": "aa_13",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]

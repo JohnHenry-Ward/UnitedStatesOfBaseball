@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bristol",
+    "fips_id": 44001,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Kent",
+    "fips_id": 44003,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Newport",
+    "fips_id": 44005,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Providence",
+    "fips_id": 44007,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  },
+  {
+    "name": "Washington",
+    "fips_id": 44009,
+    "mlb": "mlb_4",
+    "aaa": "aaa_30",
+    "aa": "aa_14",
+    "h_a": "x",
+    "a": "x",
+    "order": []
+  }
+]
