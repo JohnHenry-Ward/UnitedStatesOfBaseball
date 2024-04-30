@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-let input_files_path = "public/js/distanceCalculations/levels"
+let input_files_path = "public/distanceCalculations/levels"
 let output_file_path = "app/api/teams/data.json"
 
 let files = fs.readdirSync(input_files_path);

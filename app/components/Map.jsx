@@ -1,6 +1,6 @@
 import { useEffect, createRef } from "react";
 
-import doAllWork from '../../public/js/map.js';
+import doAllWork from '../../public/map.js';
 
 const Map = () => {
     const ref = createRef(); //idk what this is doing yet
