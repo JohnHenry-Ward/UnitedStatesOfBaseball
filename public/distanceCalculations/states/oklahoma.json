@@ -46,7 +46,7 @@
     {"county": "McCurtain", "fips_id": "40089", "latitude": 34.1219, "longitude": -94.7954},
     {"county": "McIntosh", "fips_id": "40091", "latitude": 35.3900, "longitude": -95.6819},
     {"county": "Major", "fips_id": "40093", "latitude": 36.3299, "longitude": -98.5930},
-    {"county": "Marshall", "fips_id": "40095", "latitude": 36.4392, "longitude": -96.8168},
+    {"county": "Marshall", "fips_id": "40095", "latitude": 34.03, "longitude": -96.77},
     {"county": "Mayes", "fips_id": "40097", "latitude": 36.2957, "longitude": -95.2434},
     {"county": "Murray", "fips_id": "40099", "latitude": 34.4851, "longitude": -97.0586},
     {"county": "Muskogee", "fips_id": "40101", "latitude": 35.6371, "longitude": -95.3814},

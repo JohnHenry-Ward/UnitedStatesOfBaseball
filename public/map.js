@@ -2,12 +2,12 @@ import * as d3 from 'd3';
 import * as topojson from 'topojson';
 
 // Load map data
-export default async function doAllWork() {
+export default async function generateMap(level) {
 
     const teamsData = await fetchTeamData();
     const countyData = await fetchCountyData();
     const mapData = await fetchSVGData();
-    createMap(teamsData, countyData, mapData);
+    createMap(teamsData, countyData, mapData, level);
     // temp(mapData['objects']['counties']['geometries'], convertToMapping(countyData, 'fips_id'));
 }
 
@@ -31,18 +31,21 @@ function convertToMapping(data, key_name) {
     return dataMapping;
 }
 
-function createMap(teamsData, countyData, mapData) {
-    let newMapData = topojson.feature(mapData, mapData.objects.counties).features;
+function createMap(teamsData, countyData, mapData, level) {
+    const newMapData = topojson.feature(mapData, mapData.objects.counties).features;
     const teamsDataMapping = convertToMapping(teamsData, 'team_id');
     const countyDataMapping = convertToMapping(countyData, 'fips_id');
 
-    const svg = d3.select("#map")
+    // remove any potential maps that already exist before creating a new one
+    d3.select("#map").selectAll("*").remove();
+   
+    const map = d3.select("#map")
     .append("svg")
     .attr("width", 1200)
     .attr("height", 600)
     .attr("align-self", "center");
             
-    svg.selectAll("path")
+    map.selectAll("path")
     .data(newMapData)
     .enter()
     .append("path")
@@ -51,7 +54,7 @@ function createMap(teamsData, countyData, mapData) {
     .on("mouseover", handleMouseOver)
     .on("mouseout", handleMouseOut);
     
-    var tooltip = d3.select("#map")
+    const tooltip = d3.select("#map")
     .append("div")
     .style("position", "absolute")
     .style("visibility", "hidden")
@@ -66,9 +69,10 @@ function createMap(teamsData, countyData, mapData) {
     .attr("id", "tooltip");
 
     function getColor(county) {
+        console.log('doing this!', countyData.length);
         for (let i = 0; i < countyData.length; i++) {
             if (county.id == countyData[i].fips_id) {
-                return teamsDataMapping.get(countyData[i].aa)['color'];
+                return teamsDataMapping.get(countyData[i][level.toLowerCase()])['color'];
             }
         }
     }
@@ -77,11 +81,8 @@ function createMap(teamsData, countyData, mapData) {
         d3.select(this).attr("stroke", "black");
 
         let county = countyDataMapping.get((d.id))
-        if (county === undefined) {
-            console.log(d)
-        }
-        let mlb_id = county['aa']
-        let team = teamsDataMapping.get((mlb_id).toString())
+        let team_id = county[level.toLowerCase()]
+        let team = teamsDataMapping.get((team_id).toString())
 
         tooltip
             .style("visibility", "visible")
@@ -94,17 +95,3 @@ function createMap(teamsData, countyData, mapData) {
         tooltip.style("visibility", "hidden");
     };
 }
-
-function temp(mapCounties, generatedCounties){
-    let missing = []
-
-    for (let i = 0; i < mapCounties.length; i++) {
-        let r = generatedCounties.get(mapCounties[i].id)
-        if (r === undefined) {
-            missing.push(mapCounties[i])
-        }
-    }
-
-    console.log(missing)
-}
-

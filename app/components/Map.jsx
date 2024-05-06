@@ -1,13 +1,11 @@
-import { useEffect, createRef } from "react";
+import generateMap from '../../public/map.js';
+import { useEffect, useRef } from 'react';
 
-import doAllWork from '../../public/map.js';
+const Map = ({ level }) => {
+    const ref = useRef();
 
-const Map = () => {
-    const ref = createRef(); //idk what this is doing yet
-
-    useEffect(() => {
-        doAllWork();
-    });
+    // use effect is not needed
+    generateMap(level);
 
     return (
         <div id='map' ref={ref}></div>
