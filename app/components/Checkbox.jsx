@@ -1,8 +1,9 @@
 
-const Checkbox = ({ label, value, onClick, checked }) => {
+const Checkbox = ({ label, value, onClick }) => {
   return (
-    <div>
-      <input className='checkbox' type="checkbox" label={label} value={value} onClick={onClick} /> {label}
+    <div className='checkbox-content'>
+      <input className='checkbox' id={`${value}-checkbox`} type="checkbox" name={label} value={value} onClick={onClick} />
+      <label for={label} className='checkbox-label'>{label}</label>
     </div>
   )
 }

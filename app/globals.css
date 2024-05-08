@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 html{
   background-color: #F5F5F5;
@@ -37,6 +38,7 @@ html{
   flex-direction: row;
   justify-content: space-between;
   margin: 1% 0;
+  font-family: "Roboto", sans-serif;
 }
 
 #right-content{
@@ -44,6 +46,7 @@ html{
   flex-direction: column;
   justify-content: space-between;
   width: 22%;
+  font-family: "Roboto", sans-serif;
 }
 
 /* Section Specific */
@@ -90,10 +93,75 @@ html{
   flex-direction: column;
 }
 
+#checkboxes-title{
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 5% 0 0 0;
+}
+
+#checkboxes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: auto;
+  overflow: scroll;
+}
+
+.checkbox-content{
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
+
+.checkbox{
+  appearance: none;
+  -webkit-appearance: none;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border: 0.2rem solid black;
+  border-radius: 1rem;
+  margin: auto;
+  width: 2rem;
+  height: 2rem;
+}
+
+.checkbox::before{
+  content: "";
+  width: 1.8rem;
+  height: 1.8rem;
+  align-self: center;
+  clip-path: circle(30%);
+  transform: scale(0);
+  background-color: black;
+}
+
+.checkbox:checked::before{
+  transform: scale(1);
+}
+
+.checkbox:hover{
+  cursor: pointer;
+}
+
+.checkbox-label{
+  align-self: center;
+}
+
 
 /* Footer */
 #footer-content{
+  display: flex;
   width: 100%;
   justify-content: center;
   font-size: 1.1em;
+  font-family: "Roboto", sans-serif;
+  align-items: center;
+}
+
+#github-link {
+  text-decoration: none;
+  color: black;
 }
