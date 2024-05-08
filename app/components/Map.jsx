@@ -1,11 +1,11 @@
-import generateMap from '../../public/map.js';
+import generateMap from '../../public/js/map.js';
 import { useEffect, useRef } from 'react';
 
-const Map = ({ level }) => {
+const Map = ({ level, setSelectedData }) => {
     const ref = useRef();
 
     useEffect(() => {
-        generateMap(level);
+        generateMap(level, setSelectedData);
     }, [level])
 
     return (

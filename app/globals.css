@@ -46,11 +46,6 @@ html{
   width: 22%;
 }
 
-#info-content{
-  display: flex;
-  flex-direction: column;
-}
-
 /* Section Specific */
 
 /* Title Section */
@@ -83,6 +78,18 @@ html{
 }
 
 /* Right Content */
+
+#info-content{
+  display: flex;
+  flex-direction: column;
+  min-height: 65%;
+}
+
+#selector-content{
+  min-height: 32%;
+  flex-direction: column;
+}
+
 
 /* Footer */
 #footer-content{

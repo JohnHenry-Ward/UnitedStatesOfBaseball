@@ -9,14 +9,15 @@ import Info from './components/Info';
 const HomePage = () => {
 
   const [level, setLevel] = useState('MLB');
+  const [selectedData, setSelectedData] = useState({'county': {}, 'team': {}, 'undefined': true})
 
   return (
     <div id='full-content'>
       <Title />
       <div id='main-content'>
-        <Map level={level}/>
+        <Map level={level} setSelectedData={setSelectedData}/>
         <div id='right-content'>
-          <Info />
+          <Info level={level} selectedData={selectedData} />
           <Selector level={level} setLevel={setLevel} />
         </div>
       </div>

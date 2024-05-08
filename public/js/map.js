@@ -1,24 +1,12 @@
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
+import { fetchTeamData, fetchCountyData, fetchSVGData } from './requests';
 
-export default async function generateMap(level) {
+export default async function generateMap(level, setSelectedData) {
     const teamsData = await fetchTeamData();
     const countyData = await fetchCountyData();
     const mapData = await fetchSVGData();
-    createMap(teamsData, countyData, mapData, level);
-}
-
-// TODO :: Make these URL's work in dev and prod
-async function fetchTeamData() {
-    return (await fetch('http://localhost:3000/api/teams')).json();
-}
-
-async function fetchCountyData() {
-    return (await fetch('http://localhost:3000/api/counties')).json();
-}
-
-async function fetchSVGData() {
-    return (await fetch('http://localhost:3000/api/map')).json();
+    createMap(teamsData, countyData, mapData, level, setSelectedData);
 }
 
 function convertToMapping(data, key_name) {
@@ -29,7 +17,7 @@ function convertToMapping(data, key_name) {
     return dataMapping;
 }
 
-function createMap(teamsData, countyData, mapData, level) {
+function createMap(teamsData, countyData, mapData, level, setSelectedData) {
     const newMapData = topojson.feature(mapData, mapData.objects.counties).features;
     const teamsDataMapping = convertToMapping(teamsData, 'team_id');
     const countyDataMapping = convertToMapping(countyData, 'fips_id');
@@ -50,8 +38,9 @@ function createMap(teamsData, countyData, mapData, level) {
     .append("path")
     .attr("d", d3.geoPath())
     .style("fill", d => getColor(d))
-    .on("mouseover", handleMouseOver)
-    .on("mouseout", handleMouseOut);
+    .on("mouseover", onMouseOver)
+    .on("mouseout", onMouseOut)
+    .on("click", onMouseClick);
     
     const tooltip = d3.select("#map")
     .append("div")
@@ -75,7 +64,7 @@ function createMap(teamsData, countyData, mapData, level) {
         }
     }
     
-    function handleMouseOver (event, d) {
+    function onMouseOver (event, d) {
         d3.select(this).attr("stroke", "black");
 
         let county = countyDataMapping.get((d.id))
@@ -87,8 +76,28 @@ function createMap(teamsData, countyData, mapData, level) {
             .style("top", (event.pageY) - 40 + "px").style("left", (event.pageX) + 10 + "px")
             .html("<center> " +  county['name'] + ' ' + team['team_name'] + " </center>");
     };
-    
-    function handleMouseOut (event, d) {
+
+    function onMouseClick (event, d) {
+        let county = countyDataMapping.get((d.id))
+        let team_id = county[level.toLowerCase()]
+        let team = teamsDataMapping.get((team_id).toString())
+
+        const selectedCounty = {
+            "name": county['name']
+        };
+
+        const closestTeam = {
+            "name": team['team_name']
+        };
+
+        setSelectedData({
+            "county": selectedCounty,
+            "team": closestTeam,
+            "undefined": false 
+        });
+    }
+
+    function onMouseOut (event, d) {
         d3.select(this).attr("stroke", "none");
         tooltip.style("visibility", "hidden");
     };
