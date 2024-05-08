@@ -1,26 +1,24 @@
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 
-// Load map data
 export default async function generateMap(level) {
-
     const teamsData = await fetchTeamData();
     const countyData = await fetchCountyData();
     const mapData = await fetchSVGData();
     createMap(teamsData, countyData, mapData, level);
-    // temp(mapData['objects']['counties']['geometries'], convertToMapping(countyData, 'fips_id'));
 }
 
+// TODO :: Make these URL's work in dev and prod
 async function fetchTeamData() {
-    return (await fetch('/api/teams')).json();
+    return (await fetch('http://localhost:3000/api/teams')).json();
 }
 
 async function fetchCountyData() {
-    return (await fetch('/api/counties')).json();
+    return (await fetch('http://localhost:3000/api/counties')).json();
 }
 
 async function fetchSVGData() {
-    return (await fetch('api/map')).json();
+    return (await fetch('http://localhost:3000/api/map')).json();
 }
 
 function convertToMapping(data, key_name) {
@@ -41,9 +39,10 @@ function createMap(teamsData, countyData, mapData, level) {
    
     const map = d3.select("#map")
     .append("svg")
-    .attr("width", 1200)
+    .attr("width", 1000)
     .attr("height", 600)
-    .attr("align-self", "center");
+    .attr("align-self", "center")
+    .attr("class", "svg");
             
     map.selectAll("path")
     .data(newMapData)
@@ -69,7 +68,6 @@ function createMap(teamsData, countyData, mapData, level) {
     .attr("id", "tooltip");
 
     function getColor(county) {
-        console.log('doing this!', countyData.length);
         for (let i = 0; i < countyData.length; i++) {
             if (county.id == countyData[i].fips_id) {
                 return teamsDataMapping.get(countyData[i][level.toLowerCase()])['color'];

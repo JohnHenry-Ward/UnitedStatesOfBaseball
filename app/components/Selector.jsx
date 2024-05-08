@@ -2,7 +2,7 @@
 const Selector = ({ level, setLevel }) => {
 
     return (
-        <div>
+        <div className='section-content'>
             <select value={level} onChange={(e) => setLevel(e.target.value)}>            
                 <option value="MLB">MLB</option>
                 <option value="AAA">AAA</option>

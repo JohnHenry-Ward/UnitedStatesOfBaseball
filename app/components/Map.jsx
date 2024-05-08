@@ -4,11 +4,12 @@ import { useEffect, useRef } from 'react';
 const Map = ({ level }) => {
     const ref = useRef();
 
-    // use effect is not needed
-    generateMap(level);
+    useEffect(() => {
+        generateMap(level);
+    }, [level])
 
     return (
-        <div id='map' ref={ref}></div>
+        <div id='map' className='section-content' ref={ref}></div>
     )
 }
 

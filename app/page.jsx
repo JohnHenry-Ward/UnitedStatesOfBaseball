@@ -1,20 +1,26 @@
 'use client'; // do this so we can use useState and useEffect, makes it a client component
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
+import Title from './components/Title';
 import Map from './components/Map';
 import Selector from './components/Selector';
+import Footer from './components/Footer';
+import Info from './components/Info';
 
 const HomePage = () => {
 
   const [level, setLevel] = useState('MLB');
 
   return (
-    <div>
-      <h1>United States of Baseball</h1>
-      <h4>{level}</h4>
+    <div id='full-content'>
+      <Title />
       <div id='main-content'>
         <Map level={level}/>
-        <Selector level={level} setLevel={setLevel}/>
+        <div id='right-content'>
+          <Info />
+          <Selector level={level} setLevel={setLevel} />
+        </div>
       </div>
+      <Footer />
     </div>
   )
 }

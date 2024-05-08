@@ -19,3 +19,8 @@ const combinedJson = JSON.stringify(combinedData, null, 2);
 fs.writeFileSync(output_file_path, combinedJson, 'utf-8'); 
  
 console.log('JSON files combined successfully.'); 
+
+// There are three counties that play home to two team each: 
+// San Bernadino, California (Rancho Cucamonga & Inland Empire); 
+// Pinellas, Florida (Dunedin & Clearwater);
+// Palm Beach, Florida (Palm Beach & Jupiter).
