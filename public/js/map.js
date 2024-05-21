@@ -83,11 +83,14 @@ function createMap(teamsData, countyData, mapData, level, setSelectedData) {
         let team = teamsDataMapping.get((team_id).toString())
 
         const selectedCounty = {
-            "name": county['name']
+            "name": county['name'],
+            "state": "TODO"
         };
 
         const closestTeam = {
-            "name": team['team_name']
+            "name": team['team_name'],
+            "county": "TODO",
+            "logo": team['logo']
         };
 
         setSelectedData({

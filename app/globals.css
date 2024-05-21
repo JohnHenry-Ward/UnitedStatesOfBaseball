@@ -83,10 +83,62 @@ html{
 /* Right Content */
 
 #info-content{
-  display: flex;
   flex-direction: column;
   min-height: 65%;
+  max-height: fit-content;
 }
+
+#info-text{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+#info-text>*{
+  margin: 2% auto;
+}
+
+#info-text #state{
+  font-size: 1.2em;
+  font-weight: 200;
+}
+
+#info-text #selected-county{
+  font-size: 1.5em;
+}
+
+#info-text .container #logo{
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+#info-text #team-name{
+  font-size: 1.5em;
+}
+
+#info-text #level{
+  font-size: 1.2em;
+  font-weight: 200;
+}
+
+#info-text #team-county{
+  font-size: 1.2em;
+  font-weight: 200;
+}
+
+#single-text{
+  text-align: center;
+  width: 100%;
+}
+
+/* Selector Content */
 
 #selector-content{
   min-height: 32%;

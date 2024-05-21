@@ -2,6 +2,8 @@ import generateMap from '../../public/js/map.js';
 import { useEffect, useRef } from 'react';
 
 const Map = ({ level, setSelectedData }) => {
+    // TODO: ADD A SPINNER
+
     const ref = useRef();
 
     useEffect(() => {
